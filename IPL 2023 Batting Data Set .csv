@@ -1,0 +1,1181 @@
+Match_No,Match,Team,Batsman,Out,Runs,Balls,4s,6s,Strike_Rate
+1,GT vs CSK,CSK,Conway,Yes,1,6,0,0,16.67
+1,GT vs CSK,CSK,Ruturaj Gaikwad,Yes,92,50,4,9,184
+1,GT vs CSK,CSK,Moeen,Yes,23,17,4,1,135.29
+1,GT vs CSK,CSK,Stokes,Yes,7,6,1,0,116.67
+1,GT vs CSK,CSK,Rayudu,Yes,12,12,0,1,100
+1,GT vs CSK,CSK,Shivam Dube,Yes,19,18,0,1,105.56
+1,GT vs CSK,CSK,Ravindra Jadeja,Yes,1,2,0,0,50
+1,GT vs CSK,CSK,Dhoni (c & wk),No,14,7,1,1,200
+1,GT vs CSK,CSK,Santner,No,1,3,0,0,33.33
+1,GT vs CSK,GT,Wriddhiman Saha (wk),Yes,25,16,2,2,156.25
+1,GT vs CSK,GT,Shubman Gill,Yes,63,36,6,3,175
+1,GT vs CSK,GT,Sai Sudharsan,Yes,22,17,3,0,129.41
+1,GT vs CSK,GT,Hardik Pandya (c),Yes,8,11,0,0,72.73
+1,GT vs CSK,GT,Vijay Shankar,Yes,27,21,2,1,128.57
+1,GT vs CSK,GT,Rahul Tewatia,No,15,14,1,1,107.14
+1,GT vs CSK,GT,Rashid Khan,No,10,3,1,1,333.33
+2,PK vs KKR,PK,Prabhsimran,Yes,23,12,2,2,191.67
+2,PK vs KKR,PK,Dhawan (c),Yes,40,29,6,0,137.93
+2,PK vs KKR,PK,B Rajapaksa,Yes,50,32,5,2,156.25
+2,PK vs KKR,PK,Jitesh Sharma (wk),Yes,21,11,1,2,190.91
+2,PK vs KKR,PK,Raza,Yes,16,13,1,1,123.08
+2,PK vs KKR,PK,Sam Curran,No,26,17,0,2,152.94
+2,PK vs KKR,PK,Shahrukh Khan,No,11,7,2,0,157.14
+2,PK vs KKR,KKR,Mandeep Singh,Yes,2,4,0,0,50
+2,PK vs KKR,KKR,Rahmanullah Gurbaz (wk),Yes,22,16,3,1,137.5
+2,PK vs KKR,KKR,Anukul Roy,Yes,4,5,1,0,80
+2,PK vs KKR,KKR,Venkatesh Iyer,Yes,34,28,3,1,121.43
+2,PK vs KKR,KKR,Nitish Rana (c),Yes,24,17,3,1,141.18
+2,PK vs KKR,KKR,Rinku Singh,Yes,4,4,0,0,100
+2,PK vs KKR,KKR,Andre Russell,Yes,35,19,3,2,184.21
+2,PK vs KKR,KKR,Shardul Thakur,No,8,3,0,1,266.67
+2,PK vs KKR,KKR,Sunil Narine,No,7,2,0,1,350
+3,LSG VS DC,LSG,Rahul (c),Yes,8,12,0,1,66.67
+3,LSG VS DC,LSG,K Mayers,Yes,73,38,2,7,192.11
+3,LSG VS DC,LSG,Deepak Hooda,Yes,17,18,0,0,94.44
+3,LSG VS DC,LSG,Krunal Pandya,No,15,13,0,1,115.38
+3,LSG VS DC,LSG,Stoinis,Yes,12,10,0,1,120
+3,LSG VS DC,LSG,Pooran (wk),Yes,36,21,2,3,171.43
+3,LSG VS DC,LSG,Ayush Badoni,Yes,18,7,1,2,257.14
+3,LSG VS DC,LSG,K Gowtham,No,6,1,0,1,600
+3,LSG VS DC,DC,Prithvi Shaw,Yes,12,9,2,0,133.33
+3,LSG VS DC,DC,David Warner (c),Yes,56,48,7,0,116.67
+3,LSG VS DC,DC,Mitchell Marsh,Yes,0,1,0,0,0
+3,LSG VS DC,DC,Sarfaraz Khan (wk),Yes,4,9,1,0,44.44
+3,LSG VS DC,DC,Rilee Rossouw,Yes,30,20,3,1,150
+3,LSG VS DC,DC,Rovman Powell,Yes,1,3,0,0,33.33
+3,LSG VS DC,DC,Aman Hakim Khan,Yes,4,5,0,0,80
+3,LSG VS DC,DC,Axar Patel,Yes,16,11,1,1,145.45
+3,LSG VS DC,DC,Kuldeep Yadav,No,6,10,0,0,60
+3,LSG VS DC,DC,Chetan Sakariya,Yes,4,4,1,0,100
+3,LSG VS DC,DC,Mukesh Kumar,No,0,1,0,0,0
+4,SRH VS RR,RR,Yashasvi Jaiswal,Yes,54,37,9,0,145.95
+4,SRH VS RR,RR,Jos Buttler,Yes,54,22,7,3,245.45
+4,SRH VS RR,RR,Samson (c & wk),Yes,55,32,3,4,171.88
+4,SRH VS RR,RR,Padikkal,Yes,2,5,0,0,40
+4,SRH VS RR,RR,Riyan Parag,Yes,7,6,1,0,116.67
+4,SRH VS RR,RR,Hetmyer,No,22,16,1,1,137.5
+4,SRH VS RR,RR,Ashwin,No,1,2,0,0,50
+4,SRH VS RR,SRH,Abhishek Sharma,Yes,0,3,0,0,0
+4,SRH VS RR,SRH,Mayank Agarwal,Yes,27,23,3,0,117.39
+4,SRH VS RR,SRH,Rahul Tripathi,Yes,0,2,0,0,0
+4,SRH VS RR,SRH,Harry Brook,Yes,13,21,1,0,61.9
+4,SRH VS RR,SRH,Washington Sundar,Yes,1,5,0,0,20
+4,SRH VS RR,SRH,Glenn Phillips (wk),Yes,8,6,0,1,133.33
+4,SRH VS RR,SRH,Abdul Samad,No,32,32,2,1,100
+4,SRH VS RR,SRH,Adil Rashid,Yes,18,13,1,1,138.46
+4,SRH VS RR,SRH,Bhuvneshwar Kumar (c),Yes,6,10,0,0,60
+4,SRH VS RR,SRH,Umran Malik,No,19,8,1,2,237.5
+5,RCB VS MI,MI,Rohit (c),Yes,1,10,0,0,10
+5,RCB VS MI,MI,Ishan Kishan (wk),Yes,10,13,2,0,76.92
+5,RCB VS MI,MI,Green,Yes,5,4,1,0,125
+5,RCB VS MI,MI,Suryakumar Yadav,Yes,15,16,1,0,93.75
+5,RCB VS MI,MI,Tilak Varma,No,84,46,9,4,182.61
+5,RCB VS MI,MI,Nehal Wadhera,Yes,21,13,1,2,161.54
+5,RCB VS MI,MI,Tim David,Yes,4,7,0,0,57.14
+5,RCB VS MI,MI,Hrithik Shokeen,Yes,5,3,1,0,166.67
+5,RCB VS MI,MI,Arshad Khan,No,15,9,0,1,166.67
+5,RCB VS MI,RCB,Virat Kohli,No,82,49,6,5,167.35
+5,RCB VS MI,RCB,Faf du Plessis (c),Yes,73,43,5,6,169.77
+5,RCB VS MI,RCB,Dinesh Karthik (wk),Yes,0,3,0,0,0
+5,RCB VS MI,RCB,Glenn Maxwell,No,12,3,0,2,400
+6,CSK VS LSG,CSK,Ruturaj Gaikwad,Yes,57,31,3,4,183.87
+6,CSK VS LSG,CSK,Conway,Yes,47,29,5,2,162.07
+6,CSK VS LSG,CSK,Shivam Dube,Yes,27,16,1,3,168.75
+6,CSK VS LSG,CSK,Moeen,Yes,19,13,3,0,146.15
+6,CSK VS LSG,CSK,Stokes,Yes,8,8,1,0,100
+6,CSK VS LSG,CSK,Rayudu,No,27,14,2,2,192.86
+6,CSK VS LSG,CSK,Ravindra Jadeja,Yes,3,6,0,0,50
+6,CSK VS LSG,CSK,Dhoni (c & wk),Yes,12,3,0,2,400
+6,CSK VS LSG,CSK,Santner,No,1,1,0,0,100
+6,CSK VS LSG,LSG,KL Rahul (c),Yes,20,18,2,0,111.11
+6,CSK VS LSG,LSG,Kyle Mayers,Yes,53,22,8,2,240.91
+6,CSK VS LSG,LSG,Deepak Hooda,Yes,2,6,0,0,33.33
+6,CSK VS LSG,LSG,Krunal Pandya,Yes,9,9,0,1,100
+6,CSK VS LSG,LSG,Marcus Stoinis,Yes,21,18,0,1,116.67
+6,CSK VS LSG,LSG,Nicholas Pooran (wk),Yes,32,18,2,3,177.78
+6,CSK VS LSG,LSG,Ayush Badoni,Yes,23,18,0,0,127.78
+6,CSK VS LSG,LSG,Krishnappa Gowtham,No,17,11,0,1,154.55
+6,CSK VS LSG,LSG,Mark Wood,No,10,3,1,1,333.33
+7,DC VS GT,DC,Warner (c),Yes,37,32,7,0,115.62
+7,DC VS GT,DC,Prithvi Shaw,Yes,7,5,1,0,140
+7,DC VS GT,DC,Mitchell Marsh,Yes,4,4,1,0,100
+7,DC VS GT,DC,Sarfaraz Khan,Yes,30,34,2,0,88.24
+7,DC VS GT,DC,Rossouw,Yes,0,1,0,0,0
+7,DC VS GT,DC,Abishek Porel (wk),Yes,20,11,0,2,181.82
+7,DC VS GT,DC,Axar,Yes,36,22,2,3,163.64
+7,DC VS GT,DC,Aman Hakim Khan,Yes,8,8,0,1,100
+7,DC VS GT,DC,Kuldeep Yadav,No,1,1,0,0,100
+7,DC VS GT,DC,Nortje,No,4,2,1,0,200
+7,DC VS GT,GT,Wriddhiman Saha (wk),Yes,14,7,2,1,200
+7,DC VS GT,GT,Shubman Gill,Yes,14,13,3,0,107.69
+7,DC VS GT,GT,Sai Sudharsan,No,62,48,4,2,129.17
+7,DC VS GT,GT,Hardik Pandya (c),Yes,5,4,1,0,125
+7,DC VS GT,GT,Vijay Shankar,Yes,29,23,3,0,126.09
+7,DC VS GT,GT,David Miller,No,31,16,2,2,193.75
+8,RR VS PK,PK,Prabhsimran,Yes,60,34,7,3,176.47
+8,RR VS PK,PK,Dhawan (c),No,86,56,9,3,153.57
+8,RR VS PK,PK,B Rajapaksa,Yes,1,1,0,0,100
+8,RR VS PK,PK,Jitesh Sharma (wk),Yes,27,16,2,1,168.75
+8,RR VS PK,PK,Raza,Yes,1,2,0,0,50
+8,RR VS PK,PK,Shahrukh Khan,Yes,11,10,1,0,110
+8,RR VS PK,PK,Sam Curran,No,1,2,0,0,50
+8,RR VS PK,RR,Yashasvi Jaiswal,Yes,11,8,1,1,137.5
+8,RR VS PK,RR,Ravichandran Ashwin,Yes,0,4,0,0,0
+8,RR VS PK,RR,Jos Buttler,Yes,19,11,1,1,172.73
+8,RR VS PK,RR,Sanju Samson (c & wk),Yes,42,25,5,1,168
+8,RR VS PK,RR,Devdutt Padikkal,Yes,21,26,1,0,80.77
+8,RR VS PK,RR,Riyan Parag,Yes,20,12,1,2,166.67
+8,RR VS PK,RR,Shimron Hetmyer,Yes,36,18,1,3,200
+8,RR VS PK,RR,Dhruv Jurel,No,32,15,3,2,213.33
+8,RR VS PK,RR,Jason Holder,No,1,1,0,0,100
+9,KKR VS RCB,KKR,Gurbaz (wk),Yes,57,44,6,3,129.55
+9,KKR VS RCB,KKR,Venkatesh Iyer,Yes,3,7,0,0,42.86
+9,KKR VS RCB,KKR,Mandeep,Yes,0,1,0,0,0
+9,KKR VS RCB,KKR,Nitish Rana (c),Yes,1,5,0,0,20
+9,KKR VS RCB,KKR,Rinku Singh,Yes,46,33,2,3,139.39
+9,KKR VS RCB,KKR,Russell,Yes,0,1,0,0,0
+9,KKR VS RCB,KKR,Thakur,Yes,68,29,9,3,234.48
+9,KKR VS RCB,KKR,Narine,No,0,1,0,0,0
+9,KKR VS RCB,KKR,Umesh,No,6,2,1,0,300
+9,KKR VS RCB,RCB,Virat Kohli,Yes,21,18,3,0,116.67
+9,KKR VS RCB,RCB,Faf du Plessis (c),Yes,23,12,2,2,191.67
+9,KKR VS RCB,RCB,Michael Bracewell,Yes,19,18,1,1,105.56
+9,KKR VS RCB,RCB,Glenn Maxwell,Yes,5,7,1,0,71.43
+9,KKR VS RCB,RCB,Harshal Patel,Yes,0,2,0,0,0
+9,KKR VS RCB,RCB,Shahbaz Ahmed,Yes,1,5,0,0,20
+9,KKR VS RCB,RCB,Dinesh Karthik (wk),Yes,9,8,1,0,112.5
+9,KKR VS RCB,RCB,Anuj Rawat,Yes,1,5,0,0,20
+9,KKR VS RCB,RCB,David Willey,No,20,20,2,0,100
+9,KKR VS RCB,RCB,Karn Sharma,Yes,1,3,0,0,33.33
+9,KKR VS RCB,RCB,Akash Deep,Yes,17,8,2,1,212.5
+10,LSG VS SRH,SRH,Anmolpreet Singh (wk),Yes,31,26,3,1,119.23
+10,LSG VS SRH,SRH,Mayank Agarwal,Yes,8,7,1,0,114.29
+10,LSG VS SRH,SRH,Tripathi,Yes,35,41,4,0,85.37
+10,LSG VS SRH,SRH,Markram (c),Yes,0,1,0,0,0
+10,LSG VS SRH,SRH,Harry Brook,Yes,3,4,0,0,75
+10,LSG VS SRH,SRH,Washington Sundar,Yes,16,28,0,0,57.14
+10,LSG VS SRH,SRH,Abdul Samad,No,21,10,1,2,210
+10,LSG VS SRH,SRH,Adil Rashid,Yes,4,3,1,0,133.33
+10,LSG VS SRH,SRH,Umran Malik,Yes,0,0,0,0,0
+10,LSG VS SRH,SRH,Bhuvneshwar,No,0,0,0,0,0
+10,LSG VS SRH,LSG,Kyle Mayers,Yes,13,14,2,0,92.86
+10,LSG VS SRH,LSG,KL Rahul (c),Yes,35,31,4,0,112.9
+10,LSG VS SRH,LSG,Deepak Hooda,Yes,7,8,0,1,87.5
+10,LSG VS SRH,LSG,Krunal Pandya,Yes,34,23,4,1,147.83
+10,LSG VS SRH,LSG,Marcus Stoinis,No,10,13,2,0,76.92
+10,LSG VS SRH,LSG,Romario Shepherd,Yes,0,1,0,0,0
+10,LSG VS SRH,LSG,Nicholas Pooran (wk),No,11,6,1,1,183.33
+11,RR VS GT,RR,Yashasvi Jaiswal,Yes,60,31,11,1,193.55
+11,RR VS GT,RR,Jos Buttler,Yes,79,51,11,1,154.9
+11,RR VS GT,RR,Samson (c & wk),Yes,0,4,0,0,0
+11,RR VS GT,RR,Riyan Parag,Yes,7,11,0,0,63.64
+11,RR VS GT,RR,Hetmyer,No,39,21,1,4,185.71
+11,RR VS GT,RR,Dhruv Jurel,No,8,3,0,1,266.67
+11,RR VS GT,GT,Prithvi Shaw,Yes,0,3,0,0,0
+11,RR VS GT,GT,David Warner (c),Yes,65,55,7,0,118.18
+11,RR VS GT,GT,Manish Pandey,Yes,0,1,0,0,0
+11,RR VS GT,GT,Rilee Rossouw,Yes,14,12,2,0,116.67
+11,RR VS GT,GT,Lalit Yadav,Yes,38,24,5,0,158.33
+11,RR VS GT,GT,Axar Patel,Yes,2,6,0,0,33.33
+11,RR VS GT,GT,Rovman Powell,Yes,2,2,0,0,100
+11,RR VS GT,GT,Abishek Porel (wk),Yes,7,9,1,0,77.78
+11,RR VS GT,GT,Kuldeep Yadav,No,3,7,0,0,42.86
+11,RR VS GT,GT,Anrich Nortje,Yes,0,1,0,0,0
+11,RR VS GT,GT,Mukesh Kumar,No,1,1,0,0,100
+12,MI VS CSK,MI,Rohit (c),Yes,21,13,3,1,161.54
+12,MI VS CSK,MI,Ishan Kishan (wk),Yes,32,21,5,0,152.38
+12,MI VS CSK,MI,Green,Yes,12,11,1,0,109.09
+12,MI VS CSK,MI,Suryakumar Yadav,Yes,1,2,0,0,50
+12,MI VS CSK,MI,Tilak Varma,Yes,22,18,2,1,122.22
+12,MI VS CSK,MI,Arshad Khan,Yes,2,4,0,0,50
+12,MI VS CSK,MI,Tim David,Yes,31,22,1,2,140.91
+12,MI VS CSK,MI,Tristan Stubbs,Yes,5,10,0,0,50
+12,MI VS CSK,MI,Hrithik Shokeen,No,18,13,3,0,138.46
+12,MI VS CSK,MI,Chawla,No,5,6,0,0,83.33
+12,MI VS CSK,CSK,Devon Conway,Yes,0,4,0,0,0
+12,MI VS CSK,CSK,Ruturaj Gaikwad,No,40,36,2,1,111.11
+12,MI VS CSK,CSK,Ajinkya Rahane,Yes,61,27,7,3,225.93
+12,MI VS CSK,CSK,Shivam Dube,Yes,28,26,2,1,107.69
+12,MI VS CSK,CSK,Ambati Rayudu,No,20,16,3,0,125
+13,GT VS KKR,GT,W Saha (wk),Yes,17,17,3,0,100
+13,GT VS KKR,GT,Shubman Gill,Yes,39,31,5,0,125.81
+13,GT VS KKR,GT,Sai Sudharsan,Yes,53,38,3,2,139.47
+13,GT VS KKR,GT,Abhinav Manohar,Yes,14,8,3,0,175
+13,GT VS KKR,GT,Vijay Shankar,No,63,24,4,5,262.5
+13,GT VS KKR,GT,Miller,No,2,3,0,0,66.67
+13,GT VS KKR,KKR,Rahmanullah Gurbaz (wk),Yes,15,12,1,1,125
+13,GT VS KKR,KKR,N Jagadeesan,Yes,6,8,1,0,75
+13,GT VS KKR,KKR,Venkatesh Iyer,Yes,83,40,8,5,207.5
+13,GT VS KKR,KKR,Nitish Rana (c),Yes,45,29,4,3,155.17
+13,GT VS KKR,KKR,Rinku Singh,No,48,21,1,6,228.57
+13,GT VS KKR,KKR,Andre Russell,Yes,1,2,0,0,50
+13,GT VS KKR,KKR,Sunil Narine,Yes,0,1,0,0,0
+13,GT VS KKR,KKR,Shardul Thakur,Yes,0,1,0,0,0
+13,GT VS KKR,KKR,Umesh Yadav,No,5,6,0,0,83.33
+14,SRH VS PK,PK,Prabhsimran,Yes,0,1,0,0,0
+14,SRH VS PK,PK,Dhawan (c),No,99,66,12,5,150
+14,SRH VS PK,PK,Matthew Short,Yes,1,3,0,0,33.33
+14,SRH VS PK,PK,Jitesh Sharma (wk),Yes,4,9,1,0,44.44
+14,SRH VS PK,PK,Sam Curran,Yes,22,15,3,1,146.67
+14,SRH VS PK,PK,Raza,Yes,5,6,0,0,83.33
+14,SRH VS PK,PK,Shahrukh Khan,Yes,4,3,1,0,133.33
+14,SRH VS PK,PK,Harpreet Brar,Yes,1,2,0,0,50
+14,SRH VS PK,PK,Rahul Chahar,Yes,0,8,0,0,0
+14,SRH VS PK,PK,Nathan Ellis,Yes,0,5,0,0,0
+14,SRH VS PK,PK,Mohit Rathee,No,1,2,0,0,50
+14,SRH VS PK,SRH,Harry Brook,Yes,13,14,3,0,92.86
+14,SRH VS PK,SRH,Mayank Agarwal,Yes,21,20,3,0,105
+14,SRH VS PK,SRH,Rahul Tripathi,No,74,48,10,3,154.17
+14,SRH VS PK,SRH,Aiden Markram (c),No,37,21,6,0,176.19
+15,RCB VS LSG,RCB,Kohli,Yes,61,44,4,4,138.64
+15,RCB VS LSG,RCB,du Plessis (c),No,79,46,5,5,171.74
+15,RCB VS LSG,RCB,Maxwell,Yes,59,29,3,6,203.45
+15,RCB VS LSG,RCB,Karthik (wk),No,1,1,0,0,100
+15,RCB VS LSG,LSG,Kyle Mayers,Yes,0,3,0,0,0
+15,RCB VS LSG,LSG,KL Rahul (c),Yes,18,20,1,0,90
+15,RCB VS LSG,LSG,Deepak Hooda,Yes,9,10,1,0,90
+15,RCB VS LSG,LSG,Krunal Pandya,Yes,0,2,0,0,0
+15,RCB VS LSG,LSG,Marcus Stoinis,Yes,65,30,6,5,216.67
+15,RCB VS LSG,LSG,Nicholas Pooran (wk),Yes,62,19,4,7,326.32
+15,RCB VS LSG,LSG,Ayush Badoni,Yes,30,24,4,0,125
+15,RCB VS LSG,LSG,Jaydev Unadkat,Yes,9,7,1,0,128.57
+15,RCB VS LSG,LSG,Mark Wood,Yes,1,2,0,0,50
+15,RCB VS LSG,LSG,Ravi Bishnoi,No,3,2,0,0,150
+15,RCB VS LSG,LSG,Avesh Khan,No,0,1,0,0,0
+16,DC VS MI,DC,Warner (c),Yes,51,47,6,0,108.51
+16,DC VS MI,DC,Prithvi Shaw,Yes,15,10,3,0,150
+16,DC VS MI,DC,Manish Pandey,Yes,26,18,5,0,144.44
+16,DC VS MI,DC,Yash Dhull,Yes,2,4,0,0,50
+16,DC VS MI,DC,Rovman Powell,Yes,4,4,1,0,100
+16,DC VS MI,DC,Lalit Yadav,Yes,2,4,0,0,50
+16,DC VS MI,DC,Axar,Yes,54,25,4,5,216
+16,DC VS MI,DC,Abishek Porel (wk),Yes,1,3,0,0,33.33
+16,DC VS MI,DC,Kuldeep Yadav,Yes,0,1,0,0,0
+16,DC VS MI,DC,Nortje,Yes,5,3,1,0,166.67
+16,DC VS MI,DC,Mustafizur,No,1,1,0,0,100
+16,DC VS MI,MI,Rohit Sharma (c),Yes,65,45,6,4,144.44
+16,DC VS MI,MI,Ishan Kishan (wk),Yes,31,26,6,0,119.23
+16,DC VS MI,MI,Tilak Varma,Yes,41,29,1,4,141.38
+16,DC VS MI,MI,Suryakumar Yadav,Yes,0,1,0,0,0
+16,DC VS MI,MI,Tim David,No,13,11,0,1,118.18
+16,DC VS MI,MI,Cameron Green,No,17,8,1,1,212.5
+17,CSK VS RR,RR,Yashasvi Jaiswal,Yes,10,8,2,0,125
+17,CSK VS RR,RR,Jos Buttler,Yes,52,36,1,3,144.44
+17,CSK VS RR,RR,Padikkal,Yes,38,26,5,0,146.15
+17,CSK VS RR,RR,Samson (c & wk),Yes,0,2,0,0,0
+17,CSK VS RR,RR,Ashwin,Yes,30,22,1,2,136.36
+17,CSK VS RR,RR,Hetmyer,No,30,18,2,2,166.67
+17,CSK VS RR,RR,Dhruv Jurel,Yes,4,6,0,0,66.67
+17,CSK VS RR,RR,Holder,Yes,0,1,0,0,0
+17,CSK VS RR,RR,Zampa,Yes,1,1,0,0,100
+17,CSK VS RR,CSK,Ruturaj Gaikwad,Yes,8,10,1,0,80
+17,CSK VS RR,CSK,Devon Conway,Yes,50,38,6,0,131.58
+17,CSK VS RR,CSK,Ajinkya Rahane,Yes,31,19,2,1,163.16
+17,CSK VS RR,CSK,Shivam Dube,Yes,8,9,1,0,88.89
+17,CSK VS RR,CSK,Moeen Ali,Yes,7,10,0,0,70
+17,CSK VS RR,CSK,Ambati Rayudu,Yes,1,2,0,0,50
+17,CSK VS RR,CSK,Ravindra Jadeja,No,25,15,1,2,166.67
+17,CSK VS RR,CSK,MS Dhoni (c & wk),No,32,17,1,3,188.24
+18,PK VS GT,PK,Prabhsimran,Yes,0,2,0,0,0
+18,PK VS GT,PK,Dhawan (c),Yes,8,8,2,0,100
+18,PK VS GT,PK,Matthew Short,Yes,36,24,6,1,150
+18,PK VS GT,PK,B Rajapaksa,Yes,20,26,1,0,76.92
+18,PK VS GT,PK,Jitesh Sharma (wk),Yes,25,23,5,0,108.7
+18,PK VS GT,PK,Sam Curran,Yes,22,22,1,1,100
+18,PK VS GT,PK,Shahrukh Khan,Yes,22,9,1,2,244.44
+18,PK VS GT,PK,Harpreet Brar,No,8,5,0,1,160
+18,PK VS GT,PK,Rishi Dhawan,Yes,1,1,0,0,100
+18,PK VS GT,GT,Wriddhiman Saha (wk),Yes,30,19,5,0,157.89
+18,PK VS GT,GT,Shubman Gill,Yes,67,49,7,1,136.73
+18,PK VS GT,GT,Sai Sudharsan,Yes,19,20,2,0,95
+18,PK VS GT,GT,Hardik Pandya (c),Yes,8,11,1,0,72.73
+18,PK VS GT,GT,David Miller,No,17,18,1,0,94.44
+18,PK VS GT,GT,Rahul Tewatia,No,5,2,1,0,250
+19,SRH vs KKR,SRH,Harry Brook,No,100,55,12,3,181.82
+19,SRH vs KKR,SRH,Mayank Agarwal,Yes,9,13,0,0,69.23
+19,SRH vs KKR,SRH,Tripathi,Yes,9,4,2,0,225
+19,SRH vs KKR,SRH,Markram (c),Yes,50,26,2,5,192.31
+19,SRH vs KKR,SRH,Abhishek Sharma,Yes,32,17,3,2,188.24
+19,SRH vs KKR,SRH,Klaasen (wk),No,16,6,2,1,266.67
+19,SRH vs KKR,KKR,Rahmanullah Gurbaz (wk),Yes,0,3,0,0,0
+19,SRH vs KKR,KKR,N Jagadeesan,Yes,36,21,5,1,171.43
+19,SRH vs KKR,KKR,Venkatesh Iyer,Yes,10,11,2,0,90.91
+19,SRH vs KKR,KKR,Sunil Narine,Yes,0,1,0,0,0
+19,SRH vs KKR,KKR,Nitish Rana (c),Yes,75,41,5,6,182.93
+19,SRH vs KKR,KKR,Andre Russell,Yes,3,6,0,0,50
+19,SRH vs KKR,KKR,Rinku Singh,No,58,31,4,4,187.1
+19,SRH vs KKR,KKR,Shardul Thakur,Yes,12,7,2,0,171.43
+20,RCB vs DC,RCB,Kohli,Yes,50,34,6,1,147.06
+20,RCB vs DC,RCB,du Plessis (c),Yes,22,16,3,1,137.5
+20,RCB vs DC,RCB,Lomror,Yes,26,18,0,2,144.44
+20,RCB vs DC,RCB,Maxwell,Yes,24,14,0,3,171.43
+20,RCB vs DC,RCB,Harshal Patel,Yes,6,4,0,1,150
+20,RCB vs DC,RCB,Shahbaz Ahmed,No,20,12,3,0,166.67
+20,RCB vs DC,RCB,Karthik (wk),Yes,0,1,0,0,0
+20,RCB vs DC,RCB,Anuj Rawat,No,15,22,1,0,68.18
+20,RCB vs DC,DC,David Warner (c),Yes,19,13,4,0,146.15
+20,RCB vs DC,DC,Prithvi Shaw,Yes,0,2,0,0,0
+20,RCB vs DC,DC,Mitchell Marsh,Yes,0,4,0,0,0
+20,RCB vs DC,DC,Yash Dhull,Yes,1,4,0,0,25
+20,RCB vs DC,DC,Manish Pandey,Yes,50,38,5,1,131.58
+20,RCB vs DC,DC,Abishek Porel (wk),Yes,5,8,0,0,62.5
+20,RCB vs DC,DC,Axar Patel,Yes,21,14,3,0,150
+20,RCB vs DC,DC,Aman Hakim Khan,Yes,18,10,1,1,180
+20,RCB vs DC,DC,Lalit Yadav,Yes,4,7,0,0,57.14
+20,RCB vs DC,DC,Anrich Nortje,No,23,14,4,0,164.29
+20,RCB vs DC,DC,Kuldeep Yadav,No,7,6,1,0,116.67
+21,LSG vs PK,LSG,Rahul (c),Yes,74,56,8,1,132.14
+21,LSG vs PK,LSG,K Mayers,Yes,29,23,1,3,126.09
+21,LSG vs PK,LSG,Deepak Hooda,Yes,2,3,0,0,66.67
+21,LSG vs PK,LSG,Krunal Pandya,Yes,18,17,2,0,105.88
+21,LSG vs PK,LSG,Pooran (wk),Yes,0,1,0,0,0
+21,LSG vs PK,LSG,Stoinis,Yes,15,11,0,2,136.36
+21,LSG vs PK,LSG,Ayush Badoni,No,5,6,0,0,83.33
+21,LSG vs PK,LSG,K Gowtham,Yes,1,2,0,0,50
+21,LSG vs PK,LSG,Yudhvir Singh,Yes,0,1,0,0,0
+21,LSG vs PK,LSG,Ravi Bishnoi,No,3,1,0,0,300
+21,LSG vs PK,PK,Atharva Taide,Yes,0,3,0,0,0
+21,LSG vs PK,PK,Prabhsimran Singh,Yes,4,4,1,0,100
+21,LSG vs PK,PK,Matthew Short,Yes,34,22,5,1,154.55
+21,LSG vs PK,PK,Harpreet Singh Bhatia,Yes,22,22,3,0,100
+21,LSG vs PK,PK,Sikandar Raza,Yes,57,41,4,3,139.02
+21,LSG vs PK,PK,Sam Curran (c),Yes,6,6,1,0,100
+21,LSG vs PK,PK,Jitesh Sharma (wk),Yes,2,4,0,0,50
+21,LSG vs PK,PK,Shahrukh Khan,No,23,10,1,2,230
+21,LSG vs PK,PK,Harpreet Brar,Yes,6,4,1,0,150
+21,LSG vs PK,PK,Kagiso Rabada,No,0,1,0,0,0
+22,KKR vs MI,KKR,Gurbaz (wk),Yes,8,12,0,0,66.67
+22,KKR vs MI,KKR,N Jagadeesan,Yes,0,5,0,0,0
+22,KKR vs MI,KKR,Venkatesh Iyer,Yes,104,51,6,9,203.92
+22,KKR vs MI,KKR,Nitish Rana (c),Yes,5,10,0,0,50
+22,KKR vs MI,KKR,Thakur,Yes,13,11,1,0,118.18
+22,KKR vs MI,KKR,Rinku Singh,Yes,18,18,2,0,100
+22,KKR vs MI,KKR,Russell,No,21,11,3,1,190.91
+22,KKR vs MI,KKR,Narine,No,2,2,0,0,100
+22,KKR vs MI,MI,Rohit Sharma,Yes,20,13,1,2,153.85
+22,KKR vs MI,MI,Ishan Kishan (wk),Yes,58,25,5,5,232
+22,KKR vs MI,MI,Suryakumar Yadav (c),Yes,43,25,4,3,172
+22,KKR vs MI,MI,Tilak Varma,Yes,30,25,3,1,120
+22,KKR vs MI,MI,Tim David,No,24,13,1,2,184.62
+22,KKR vs MI,MI,Nehal Wadhera,Yes,6,4,1,0,150
+22,KKR vs MI,MI,Cameron Green,No,1,1,0,0,100
+23,GT vs RR,GT,W Saha (wk),Yes,4,3,1,0,133.33
+23,GT vs RR,GT,Shubman Gill,Yes,45,34,4,1,132.35
+23,GT vs RR,GT,Sai Sudharsan,Yes,20,19,2,0,105.26
+23,GT vs RR,GT,Hardik Pandya (c),Yes,28,19,3,1,147.37
+23,GT vs RR,GT,Miller,Yes,46,30,3,2,153.33
+23,GT vs RR,GT,Abhinav Manohar,Yes,27,13,0,3,207.69
+23,GT vs RR,GT,Rahul Tewatia,No,1,1,0,0,100
+23,GT vs RR,GT,Rashid Khan,Yes,1,1,0,0,100
+23,GT vs RR,GT,Alzarri Joseph,No,0,0,0,0,0
+23,GT vs RR,RR,Yashasvi Jaiswal,Yes,1,7,0,0,14.29
+23,GT vs RR,RR,Jos Buttler,Yes,0,5,0,0,0
+23,GT vs RR,RR,Devdutt Padikkal,Yes,26,25,2,2,104
+23,GT vs RR,RR,Sanju Samson (c & wk),Yes,60,32,3,6,187.5
+23,GT vs RR,RR,Riyan Parag,Yes,5,7,0,0,71.43
+23,GT vs RR,RR,Shimron Hetmyer,No,56,26,2,5,215.38
+23,GT vs RR,RR,Dhruv Jurel,Yes,18,10,2,1,180
+23,GT vs RR,RR,Ravichandran Ashwin,Yes,10,3,1,1,333.33
+23,GT vs RR,RR,Trent Boult,No,0,1,0,0,0
+24,CSK vs RCB,CSK,Ruturaj Gaikwad,Yes,3,6,0,0,50
+24,CSK vs RCB,CSK,Conway,Yes,83,45,6,6,184.44
+24,CSK vs RCB,CSK,Ajinkya Rahane,Yes,37,20,3,2,185
+24,CSK vs RCB,CSK,Shivam Dube,Yes,52,27,2,5,192.59
+24,CSK vs RCB,CSK,Rayudu,Yes,14,6,1,1,233.33
+24,CSK vs RCB,CSK,Moeen,No,19,9,0,2,211.11
+24,CSK vs RCB,CSK,Ravindra Jadeja,Yes,10,8,0,1,125
+24,CSK vs RCB,CSK,Dhoni (c & wk),No,1,1,0,0,100
+24,CSK vs RCB,RCB,Virat Kohli,Yes,6,4,1,0,150
+24,CSK vs RCB,RCB,Faf du Plessis (c),Yes,62,33,5,4,187.88
+24,CSK vs RCB,RCB,Mahipal Lomror,Yes,0,5,0,0,0
+24,CSK vs RCB,RCB,Glenn Maxwell,Yes,76,36,3,8,211.11
+24,CSK vs RCB,RCB,Shahbaz Ahmed,Yes,12,10,0,1,120
+24,CSK vs RCB,RCB,Dinesh Karthik (wk),Yes,28,14,3,1,200
+24,CSK vs RCB,RCB,Suyash Prabhudessai,Yes,19,11,0,2,172.73
+24,CSK vs RCB,RCB,Wayne Parnell,Yes,2,5,0,0,40
+24,CSK vs RCB,RCB,Wanindu Hasaranga,No,2,2,0,0,100
+25,MI vs SRH,MI,Rohit (c),Yes,28,18,6,0,155.56
+25,MI vs SRH,MI,Ishan Kishan (wk),Yes,38,31,3,2,122.58
+25,MI vs SRH,MI,Green,No,64,40,6,2,160
+25,MI vs SRH,MI,Suryakumar Yadav,Yes,7,3,0,1,233.33
+25,MI vs SRH,MI,Tilak Varma,Yes,37,17,2,4,217.65
+25,MI vs SRH,MI,Tim David,Yes,16,11,2,0,145.45
+25,MI vs SRH,SRH,Harry Brook,Yes,9,7,2,0,128.57
+25,MI vs SRH,SRH,Mayank Agarwal,Yes,48,41,4,1,117.07
+25,MI vs SRH,SRH,Rahul Tripathi,Yes,7,5,1,0,140
+25,MI vs SRH,SRH,Aiden Markram (c),Yes,22,17,1,1,129.41
+25,MI vs SRH,SRH,Abhishek Sharma,Yes,1,2,0,0,50
+25,MI vs SRH,SRH,Heinrich Klaasen (wk),Yes,36,16,4,2,225
+25,MI vs SRH,SRH,Abdul Samad,Yes,9,12,1,0,75
+25,MI vs SRH,SRH,Marco Jansen,Yes,13,6,3,0,216.67
+25,MI vs SRH,SRH,Washington Sundar,Yes,10,6,2,0,166.67
+25,MI vs SRH,SRH,Bhuvneshwar Kumar,Yes,2,5,0,0,40
+25,MI vs SRH,SRH,Mayank Markande,No,2,2,0,0,100
+26,LSG vs RR,LSG,Rahul (c),Yes,39,32,4,1,121.88
+26,LSG vs RR,LSG,K Mayers,Yes,51,42,4,3,121.43
+26,LSG vs RR,LSG,Ayush Badoni,Yes,1,4,0,0,25
+26,LSG vs RR,LSG,Deepak Hooda,Yes,2,4,0,0,50
+26,LSG vs RR,LSG,Stoinis,Yes,21,16,2,0,131.25
+26,LSG vs RR,LSG,Pooran (wk),Yes,29,20,2,1,145
+26,LSG vs RR,LSG,Krunal Pandya,No,4,2,1,0,200
+26,LSG vs RR,LSG,Yudhvir Singh,Yes,1,1,0,0,100
+26,LSG vs RR,RR,Yashasvi Jaiswal,Yes,44,35,4,2,125.71
+26,LSG vs RR,RR,Jos Buttler,Yes,40,41,4,1,97.56
+26,LSG vs RR,RR,Sanju Samson (c & wk),Yes,2,4,0,0,50
+26,LSG vs RR,RR,Devdutt Padikkal,Yes,26,21,4,0,123.81
+26,LSG vs RR,RR,Shimron Hetmyer,Yes,2,5,0,0,40
+26,LSG vs RR,RR,Riyan Parag,No,15,12,1,1,125
+26,LSG vs RR,RR,Dhruv Jurel,Yes,0,1,0,0,0
+26,LSG vs RR,RR,Ravichandran Ashwin,No,3,2,0,0,150
+27,RCB vs PK,RCB,Kohli (c),Yes,59,47,5,1,125.53
+27,RCB vs PK,RCB,du Plessis,Yes,84,56,5,5,150
+27,RCB vs PK,RCB,Maxwell,Yes,0,1,0,0,0
+27,RCB vs PK,RCB,Karthik (wk),Yes,7,5,1,0,140
+27,RCB vs PK,RCB,Lomror,No,7,9,1,0,77.78
+27,RCB vs PK,RCB,Shahbaz Ahmed,No,5,3,0,0,166.67
+27,RCB vs PK,PK,Atharva Taide,Yes,4,2,1,0,200
+27,RCB vs PK,PK,Prabhsimran Singh,Yes,46,30,3,4,153.33
+27,RCB vs PK,PK,Matthew Short,Yes,8,7,0,1,114.29
+27,RCB vs PK,PK,Liam Livingstone,Yes,2,4,0,0,50
+27,RCB vs PK,PK,Harpreet Singh Bhatia,Yes,13,9,1,1,144.44
+27,RCB vs PK,PK,Sam Curran (c),Yes,10,12,1,0,83.33
+27,RCB vs PK,PK,Jitesh Sharma (wk),Yes,41,27,2,3,151.85
+27,RCB vs PK,PK,Shahrukh Khan,Yes,7,5,0,1,140
+27,RCB vs PK,PK,Harpreet Brar,Yes,13,13,1,0,100
+27,RCB vs PK,PK,Nathan Ellis,Yes,1,2,0,0,50
+27,RCB vs PK,PK,Arshdeep Singh,No,0,0,0,0,0
+28,KKR vs DC,KKR,Jason Roy,Yes,43,39,5,1,110.26
+28,KKR vs DC,KKR,Litton Das (wk),Yes,4,4,1,0,100
+28,KKR vs DC,KKR,Venkatesh Iyer,Yes,0,2,0,0,0
+28,KKR vs DC,KKR,Nitish Rana (c),Yes,4,7,1,0,57.14
+28,KKR vs DC,KKR,Mandeep,Yes,12,11,0,1,109.09
+28,KKR vs DC,KKR,Rinku Singh,Yes,6,8,1,0,75
+28,KKR vs DC,KKR,Narine,Yes,4,6,1,0,66.67
+28,KKR vs DC,KKR,Russell,No,38,31,1,4,122.58
+28,KKR vs DC,KKR,Anukul Roy,Yes,0,1,0,0,0
+28,KKR vs DC,KKR,Umesh,Yes,3,5,0,0,60
+28,KKR vs DC,KKR,Chakaravarthy,Yes,1,6,0,0,16.67
+28,KKR vs DC,DC,David Warner (c),Yes,57,41,11,0,139.02
+28,KKR vs DC,DC,Prithvi Shaw,Yes,13,11,2,0,118.18
+28,KKR vs DC,DC,Mitchell Marsh,Yes,2,9,0,0,22.22
+28,KKR vs DC,DC,Philip Salt (wk),Yes,5,3,1,0,166.67
+28,KKR vs DC,DC,Manish Pandey,Yes,21,23,2,0,91.3
+28,KKR vs DC,DC,Axar Patel,No,19,22,1,0,86.36
+28,KKR vs DC,DC,Aman Hakim Khan,Yes,0,2,0,0,0
+28,KKR vs DC,DC,Lalit Yadav,No,4,7,0,0,57.14
+29,SRH vs CSK,SRH,Harry Brook,Yes,18,13,3,0,138.46
+29,SRH vs CSK,SRH,Abhishek Sharma,Yes,34,26,3,1,130.77
+29,SRH vs CSK,SRH,Tripathi,Yes,21,21,1,1,100
+29,SRH vs CSK,SRH,Markram (c),Yes,12,12,1,0,100
+29,SRH vs CSK,SRH,Klaasen (wk),Yes,17,16,1,0,106.25
+29,SRH vs CSK,SRH,Mayank Agarwal,Yes,2,4,0,0,50
+29,SRH vs CSK,SRH,Marco Jansen,No,17,22,1,0,77.27
+29,SRH vs CSK,SRH,Washington Sundar,Yes,9,6,1,0,150
+29,SRH vs CSK,CSK,Ruturaj Gaikwad,Yes,35,30,2,0,116.67
+29,SRH vs CSK,CSK,Devon Conway,No,77,57,12,1,135.09
+29,SRH vs CSK,CSK,Ajinkya Rahane,Yes,9,10,0,0,90
+29,SRH vs CSK,CSK,Ambati Rayudu,Yes,9,9,1,0,100
+29,SRH vs CSK,CSK,Moeen Ali,No,6,6,1,0,100
+30,GT vs LSG,GT,W Saha (wk),Yes,47,37,6,0,127.03
+30,GT vs LSG,GT,Shubman Gill,Yes,0,2,0,0,0
+30,GT vs LSG,GT,Hardik Pandya (c),Yes,66,50,2,4,132
+30,GT vs LSG,GT,Abhinav Manohar,Yes,3,5,0,0,60
+30,GT vs LSG,GT,Vijay Shankar,Yes,10,12,1,0,83.33
+30,GT vs LSG,GT,Miller,Yes,6,12,0,0,50
+30,GT vs LSG,GT,Rahul Tewatia,No,2,2,0,0,100
+30,GT vs LSG,LSG,KL Rahul (c),Yes,68,61,8,0,111.48
+30,GT vs LSG,LSG,Kyle Mayers,Yes,24,19,2,1,126.32
+30,GT vs LSG,LSG,Krunal Pandya,Yes,23,23,2,1,100
+30,GT vs LSG,LSG,Nicholas Pooran (wk),Yes,1,7,0,0,14.29
+30,GT vs LSG,LSG,Ayush Badoni,Yes,8,6,0,0,133.33
+30,GT vs LSG,LSG,Marcus Stoinis,Yes,0,1,0,0,0
+30,GT vs LSG,LSG,Deepak Hooda,Yes,2,2,0,0,100
+30,GT vs LSG,LSG,Prerak Mankad,No,0,0,0,0,0
+30,GT vs LSG,LSG,Ravi Bishnoi,No,0,1,0,0,0
+31,PK vs MI,PK,Matthew Short,Yes,11,10,2,0,110
+31,PK vs MI,PK,Prabhsimran,Yes,26,17,1,2,152.94
+31,PK vs MI,PK,Atharva Taide,Yes,29,17,3,1,170.59
+31,PK vs MI,PK,Livingstone,Yes,10,12,0,1,83.33
+31,PK vs MI,PK,Harpreet Singh,Yes,41,28,4,2,146.43
+31,PK vs MI,PK,Sam Curran (c),Yes,55,29,5,4,189.66
+31,PK vs MI,PK,Jitesh Sharma (wk),Yes,25,7,0,4,357.14
+31,PK vs MI,PK,Shahrukh Khan,No,0,0,0,0,0
+31,PK vs MI,PK,Harpreet Brar,Yes,5,2,1,0,250
+31,PK vs MI,MI,Rohit Sharma (c),Yes,44,27,4,3,162.96
+31,PK vs MI,MI,Ishan Kishan (wk),Yes,1,4,0,0,25
+31,PK vs MI,MI,Cameron Green,Yes,67,43,6,3,155.81
+31,PK vs MI,MI,Suryakumar Yadav,Yes,57,26,7,3,219.23
+31,PK vs MI,MI,Tim David,No,25,13,0,2,192.31
+31,PK vs MI,MI,Tilak Varma,Yes,3,4,0,0,75
+31,PK vs MI,MI,Nehal Wadhera,Yes,0,1,0,0,0
+31,PK vs MI,MI,Jofra Archer,No,1,2,0,0,50
+32,RCB vs RR,RCB,Kohli (c),Yes,0,1,0,0,0
+32,RCB vs RR,RCB,du Plessis,Yes,62,39,8,2,158.97
+32,RCB vs RR,RCB,Shahbaz Ahmed,Yes,2,4,0,0,50
+32,RCB vs RR,RCB,Maxwell,Yes,77,44,6,4,175
+32,RCB vs RR,RCB,Lomror,Yes,8,6,1,0,133.33
+32,RCB vs RR,RCB,Karthik (wk),Yes,16,13,2,0,123.08
+32,RCB vs RR,RCB,Prabhudessai,Yes,0,2,0,0,0
+32,RCB vs RR,RCB,W Hasaranga,Yes,6,7,0,0,85.71
+32,RCB vs RR,RCB,Willey,No,4,2,1,0,200
+32,RCB vs RR,RCB,Vijaykumar Vyshak,Yes,0,1,0,0,0
+32,RCB vs RR,RCB,Siraj,No,1,1,0,0,100
+32,RCB vs RR,RR,Yashasvi Jaiswal,Yes,47,37,5,2,127.03
+32,RCB vs RR,RR,Jos Buttler,Yes,0,2,0,0,0
+32,RCB vs RR,RR,Devdutt Padikkal,Yes,52,34,7,1,152.94
+32,RCB vs RR,RR,Sanju Samson (c & wk),Yes,22,15,2,1,146.67
+32,RCB vs RR,RR,Shimron Hetmyer,Yes,3,9,0,0,33.33
+32,RCB vs RR,RR,Dhruv Jurel,No,34,16,2,2,212.5
+32,RCB vs RR,RR,Ravichandran Ashwin,Yes,12,6,2,0,200
+32,RCB vs RR,RR,Abdul Basith,No,1,1,0,0,100
+33,CSK vs KKR,CSK,Ruturaj Gaikwad,Yes,35,20,2,3,175
+33,CSK vs KKR,CSK,Conway,Yes,56,40,4,3,140
+33,CSK vs KKR,CSK,Ajinkya Rahane,No,71,29,6,5,244.83
+33,CSK vs KKR,CSK,Shivam Dube,Yes,50,21,2,5,238.1
+33,CSK vs KKR,CSK,Ravindra Jadeja,Yes,18,8,0,2,225
+33,CSK vs KKR,CSK,Dhoni (c & wk),No,2,3,0,0,66.67
+33,CSK vs KKR,KKR,N Jagadeesan (wk),Yes,1,3,0,0,33.33
+33,CSK vs KKR,KKR,Sunil Narine,Yes,0,3,0,0,0
+33,CSK vs KKR,KKR,Venkatesh Iyer,Yes,20,20,2,1,100
+33,CSK vs KKR,KKR,Nitish Rana (c),Yes,27,20,4,1,135
+33,CSK vs KKR,KKR,Jason Roy,Yes,61,26,5,5,234.62
+33,CSK vs KKR,KKR,Rinku Singh,No,53,33,3,4,160.61
+33,CSK vs KKR,KKR,Andre Russell,Yes,9,6,0,1,150
+33,CSK vs KKR,KKR,David Wiese,Yes,1,2,0,0,50
+33,CSK vs KKR,KKR,Umesh Yadav,Yes,4,4,0,0,100
+33,CSK vs KKR,KKR,Varun Chakaravarthy,No,0,3,0,0,0
+34,DC vs SRH,DC,Warner (c),Yes,21,20,2,1,105
+34,DC vs SRH,DC,Salt (wk),Yes,0,1,0,0,0
+34,DC vs SRH,DC,Mitchell Marsh,Yes,25,15,5,0,166.67
+34,DC vs SRH,DC,Sarfaraz Khan,Yes,10,9,0,1,111.11
+34,DC vs SRH,DC,Manish Pandey,Yes,34,27,2,0,125.93
+34,DC vs SRH,DC,Aman Hakim Khan,Yes,4,2,1,0,200
+34,DC vs SRH,DC,Axar,Yes,34,34,4,0,100
+34,DC vs SRH,DC,Ripal Patel,Yes,5,6,0,0,83.33
+34,DC vs SRH,DC,Nortje,Yes,2,2,0,0,100
+34,DC vs SRH,DC,Kuldeep Yadav,No,4,3,1,0,133.33
+34,DC vs SRH,DC,Ishant,No,1,1,0,0,100
+34,DC vs SRH,SRH,Harry Brook,Yes,7,14,0,0,50
+34,DC vs SRH,SRH,Mayank Agarwal,Yes,49,39,7,0,125.64
+34,DC vs SRH,SRH,Rahul Tripathi,Yes,15,21,0,0,71.43
+34,DC vs SRH,SRH,Abhishek Sharma,Yes,5,5,0,0,100
+34,DC vs SRH,SRH,Aiden Markram (c),Yes,3,5,0,0,60
+34,DC vs SRH,SRH,Heinrich Klaasen (wk),Yes,31,19,3,1,163.16
+34,DC vs SRH,SRH,Washington Sundar,No,24,15,3,0,160
+34,DC vs SRH,SRH,Marco Jansen,No,2,3,0,0,66.67
+35,GT vs MI,GT,W Saha (wk),Yes,4,7,0,0,57.14
+35,GT vs MI,GT,Shubman Gill,Yes,56,34,7,1,164.71
+35,GT vs MI,GT,Hardik Pandya (c),Yes,13,14,1,0,92.86
+35,GT vs MI,GT,Vijay Shankar,Yes,19,16,1,1,118.75
+35,GT vs MI,GT,Miller,Yes,46,22,2,4,209.09
+35,GT vs MI,GT,Abhinav Manohar,Yes,42,21,3,3,200
+35,GT vs MI,GT,Rahul Tewatia,No,20,5,0,3,400
+35,GT vs MI,GT,Rashid Khan,No,2,1,0,0,200
+35,GT vs MI,MI,Rohit Sharma (c),Yes,2,8,0,0,25
+35,GT vs MI,MI,Ishan Kishan (wk),Yes,13,21,1,0,61.9
+35,GT vs MI,MI,Cameron Green,Yes,33,26,0,3,126.92
+35,GT vs MI,MI,Tilak Varma,Yes,2,3,0,0,66.67
+35,GT vs MI,MI,Suryakumar Yadav,Yes,23,12,3,1,191.67
+35,GT vs MI,MI,Tim David,Yes,0,2,0,0,0
+35,GT vs MI,MI,Nehal Wadhera,Yes,40,21,3,3,190.48
+35,GT vs MI,MI,Piyush Chawla,Yes,18,12,1,1,150
+35,GT vs MI,MI,Arjun Tendulkar,Yes,13,9,0,1,144.44
+35,GT vs MI,MI,Jason Behrendorff,No,3,4,0,0,75
+35,GT vs MI,MI,Riley Meredith,No,0,2,0,0,0
+36,KKR vs RCB,KKR,Jason Roy,Yes,56,29,4,5,193.1
+36,KKR vs RCB,KKR,N Jagadeesan (wk),Yes,27,29,4,0,93.1
+36,KKR vs RCB,KKR,Venkatesh Iyer,Yes,31,26,3,0,119.23
+36,KKR vs RCB,KKR,Nitish Rana (c),Yes,48,21,3,4,228.57
+36,KKR vs RCB,KKR,Russell,Yes,1,2,0,0,50
+36,KKR vs RCB,KKR,Rinku Singh,No,18,10,2,1,180
+36,KKR vs RCB,KKR,Wiese,No,12,3,0,2,400
+36,KKR vs RCB,RCB,Virat Kohli (c),Yes,54,37,6,0,145.95
+36,KKR vs RCB,RCB,Faf du Plessis,Yes,17,7,1,2,242.86
+36,KKR vs RCB,RCB,Shahbaz Ahmed,Yes,2,5,0,0,40
+36,KKR vs RCB,RCB,Glenn Maxwell,Yes,5,4,1,0,125
+36,KKR vs RCB,RCB,Mahipal Lomror,Yes,34,18,1,3,188.89
+36,KKR vs RCB,RCB,Dinesh Karthik (wk),Yes,22,18,1,1,122.22
+36,KKR vs RCB,RCB,Suyash Prabhudessai,Yes,10,9,1,0,111.11
+36,KKR vs RCB,RCB,Wanindu Hasaranga,Yes,5,4,0,0,125
+36,KKR vs RCB,RCB,David Willey,No,11,10,1,0,110
+36,KKR vs RCB,RCB,Vijaykumar Vyshak,No,13,8,0,1,162.5
+37,RR vs CSK,RR,Yashasvi Jaiswal,Yes,77,43,8,4,179.07
+37,RR vs CSK,RR,Jos Buttler,Yes,27,21,4,0,128.57
+37,RR vs CSK,RR,Samson (c & wk),Yes,17,17,1,0,100
+37,RR vs CSK,RR,Hetmyer,Yes,8,10,0,0,80
+37,RR vs CSK,RR,Dhruv Jurel,Yes,34,15,3,2,226.67
+37,RR vs CSK,RR,Padikkal,No,27,13,5,0,207.69
+37,RR vs CSK,RR,Ashwin,No,1,1,0,0,100
+37,RR vs CSK,CSK,Ruturaj Gaikwad,Yes,47,29,5,1,162.07
+37,RR vs CSK,CSK,Devon Conway,Yes,8,16,1,0,50
+37,RR vs CSK,CSK,Ajinkya Rahane,Yes,15,13,0,0,115.38
+37,RR vs CSK,CSK,Shivam Dube,Yes,52,33,2,4,157.58
+37,RR vs CSK,CSK,Ambati Rayudu,Yes,0,2,0,0,0
+37,RR vs CSK,CSK,Moeen Ali,Yes,23,12,2,2,191.67
+37,RR vs CSK,CSK,Ravindra Jadeja,No,23,15,3,0,153.33
+38,LSG vs PK,LSG,Rahul (c),Yes,12,9,1,1,133.33
+38,LSG vs PK,LSG,K Mayers,Yes,54,24,7,4,225
+38,LSG vs PK,LSG,Ayush Badoni,Yes,43,24,3,3,179.17
+38,LSG vs PK,LSG,Stoinis,Yes,72,40,6,5,180
+38,LSG vs PK,LSG,Pooran (wk),Yes,45,19,7,1,236.84
+38,LSG vs PK,LSG,Deepak Hooda,No,11,6,2,0,183.33
+38,LSG vs PK,LSG,Krunal Pandya,No,5,2,1,0,250
+38,LSG vs PK,PK,Prabhsimran Singh,Yes,9,13,2,0,69.23
+38,LSG vs PK,PK,Shikhar Dhawan (c),Yes,1,2,0,0,50
+38,LSG vs PK,PK,Atharva Taide,Yes,66,36,8,2,183.33
+38,LSG vs PK,PK,Sikandar Raza,Yes,36,22,4,1,163.64
+38,LSG vs PK,PK,Liam Livingstone,Yes,23,14,2,1,164.29
+38,LSG vs PK,PK,Sam Curran,Yes,21,11,2,1,190.91
+38,LSG vs PK,PK,Jitesh Sharma (wk),Yes,24,10,0,3,240
+38,LSG vs PK,PK,Shahrukh Khan,Yes,6,9,0,0,66.67
+38,LSG vs PK,PK,Rahul Chahar,Yes,0,1,0,0,0
+38,LSG vs PK,PK,Kagiso Rabada,Yes,0,1,0,0,0
+38,LSG vs PK,PK,Arshdeep Singh,No,2,2,0,0,100
+39,KKR vs GT,KKR,N Jagadeesan,Yes,19,15,4,0,126.67
+39,KKR vs GT,KKR,Gurbaz (wk),Yes,81,39,5,7,207.69
+39,KKR vs GT,KKR,Thakur,Yes,0,4,0,0,0
+39,KKR vs GT,KKR,Venkatesh Iyer,Yes,11,14,0,0,78.57
+39,KKR vs GT,KKR,Nitish Rana (c),Yes,4,3,1,0,133.33
+39,KKR vs GT,KKR,Rinku Singh,Yes,19,20,0,1,95
+39,KKR vs GT,KKR,Russell,Yes,34,19,2,3,178.95
+39,KKR vs GT,KKR,Wiese,No,8,6,0,1,133.33
+39,KKR vs GT,GT,Wriddhiman Saha (wk),Yes,10,10,1,0,100
+39,KKR vs GT,GT,Shubman Gill,Yes,49,35,8,0,140
+39,KKR vs GT,GT,Hardik Pandya (c),Yes,26,20,2,1,130
+39,KKR vs GT,GT,Vijay Shankar,No,51,24,2,5,212.5
+39,KKR vs GT,GT,David Miller,No,32,18,2,2,177.78
+40,SRH vs DC,SRH,Abhishek Sharma,Yes,67,36,12,1,186.11
+40,SRH vs DC,SRH,Mayank Agarwal,Yes,5,6,1,0,83.33
+40,SRH vs DC,SRH,Tripathi,Yes,10,6,0,1,166.67
+40,SRH vs DC,SRH,Markram (c),Yes,8,13,0,0,61.54
+40,SRH vs DC,SRH,Harry Brook,Yes,0,2,0,0,0
+40,SRH vs DC,SRH,Klaasen (wk),No,53,27,2,4,196.3
+40,SRH vs DC,SRH,Abdul Samad,Yes,28,21,1,2,133.33
+40,SRH vs DC,SRH,Akeal Hosein,No,16,10,1,1,160
+40,SRH vs DC,DC,David Warner (c),Yes,0,2,0,0,0
+40,SRH vs DC,DC,Philip Salt (wk),Yes,59,35,9,0,168.57
+40,SRH vs DC,DC,Mitchell Marsh,Yes,63,39,1,6,161.54
+40,SRH vs DC,DC,Manish Pandey,Yes,1,3,0,0,33.33
+40,SRH vs DC,DC,Priyam Garg,Yes,12,9,1,0,133.33
+40,SRH vs DC,DC,Sarfaraz Khan,Yes,9,10,1,0,90
+40,SRH vs DC,DC,Axar Patel,No,29,14,1,2,207.14
+40,SRH vs DC,DC,Ripal Patel,No,11,8,1,0,137.5
+41,CSK vs PK,CSK,Ruturaj Gaikwad,Yes,37,31,4,1,119.35
+41,CSK vs PK,CSK,Conway,No,92,52,16,1,176.92
+41,CSK vs PK,CSK,Shivam Dube,Yes,28,17,1,2,164.71
+41,CSK vs PK,CSK,Moeen,Yes,10,6,2,0,166.67
+41,CSK vs PK,CSK,Ravindra Jadeja,Yes,12,10,0,0,120
+41,CSK vs PK,CSK,Dhoni (c & wk),No,13,4,0,2,325
+41,CSK vs PK,PK,Prabhsimran Singh,Yes,42,24,4,2,175
+41,CSK vs PK,PK,Shikhar Dhawan (c),Yes,28,15,4,1,186.67
+41,CSK vs PK,PK,Atharva Taide,Yes,13,17,0,0,76.47
+41,CSK vs PK,PK,Liam Livingstone,Yes,40,24,1,4,166.67
+41,CSK vs PK,PK,Sam Curran,Yes,29,20,1,1,145
+41,CSK vs PK,PK,Jitesh Sharma (wk),Yes,21,10,2,1,210
+41,CSK vs PK,PK,Shahrukh Khan,No,2,3,0,0,66.67
+41,CSK vs PK,PK,Sikandar Raza,No,13,7,1,0,185.71
+42,RR vs MI,RR,Yashasvi Jaiswal,Yes,124,62,16,8,200
+42,RR vs MI,RR,Jos Buttler,Yes,18,19,2,1,94.74
+42,RR vs MI,RR,Samson (c & wk),Yes,14,10,1,1,140
+42,RR vs MI,RR,Padikkal,Yes,2,4,0,0,50
+42,RR vs MI,RR,Holder,Yes,11,9,0,1,122.22
+42,RR vs MI,RR,Hetmyer,Yes,8,9,0,1,88.89
+42,RR vs MI,RR,Dhruv Jurel,Yes,2,3,0,0,66.67
+42,RR vs MI,RR,Ashwin,No,8,5,1,0,160
+42,RR vs MI,RR,Boult,No,0,0,0,0,0
+42,RR vs MI,MI,Rohit Sharma (c),Yes,3,5,0,0,60
+42,RR vs MI,MI,Ishan Kishan (wk),Yes,28,23,4,0,121.74
+42,RR vs MI,MI,Cameron Green,Yes,44,26,4,2,169.23
+42,RR vs MI,MI,Suryakumar Yadav,Yes,55,29,8,2,189.66
+42,RR vs MI,MI,Tilak Varma,No,29,21,3,1,138.1
+42,RR vs MI,MI,Tim David,No,45,14,2,5,321.43
+43,RCB vs LSG,RCB,Kohli,Yes,31,30,3,0,103.33
+43,RCB vs LSG,RCB,du Plessis (c),Yes,44,40,1,1,110
+43,RCB vs LSG,RCB,Anuj Rawat,Yes,9,11,0,0,81.82
+43,RCB vs LSG,RCB,Maxwell,Yes,4,5,0,0,80
+43,RCB vs LSG,RCB,Prabhudessai,Yes,6,7,0,0,85.71
+43,RCB vs LSG,RCB,Karthik (wk),Yes,16,11,1,1,145.45
+43,RCB vs LSG,RCB,Lomror,Yes,3,4,0,0,75
+43,RCB vs LSG,RCB,W Hasaranga,No,8,7,1,0,114.29
+43,RCB vs LSG,RCB,Karn Sharma,Yes,2,2,0,0,100
+43,RCB vs LSG,RCB,Siraj,Yes,0,1,0,0,0
+43,RCB vs LSG,RCB,Hazlewood,No,1,2,0,0,50
+43,RCB vs LSG,LSG,Kyle Mayers,Yes,0,2,0,0,0
+43,RCB vs LSG,LSG,Ayush Badoni,Yes,4,11,0,0,36.36
+43,RCB vs LSG,LSG,Krunal Pandya,Yes,14,11,3,0,127.27
+43,RCB vs LSG,LSG,Deepak Hooda,Yes,1,2,0,0,50
+43,RCB vs LSG,LSG,Marcus Stoinis,Yes,13,19,0,1,68.42
+43,RCB vs LSG,LSG,Nicholas Pooran (wk),Yes,9,7,0,1,128.57
+43,RCB vs LSG,LSG,Krishnappa Gowtham,Yes,23,13,1,2,176.92
+43,RCB vs LSG,LSG,Ravi Bishnoi,Yes,5,10,0,0,50
+43,RCB vs LSG,LSG,Amit Mishra,Yes,19,30,2,0,63.33
+43,RCB vs LSG,LSG,Naveen-ul-Haq,Yes,13,13,2,0,100
+43,RCB vs LSG,LSG,KL Rahul (c),No,0,3,0,0,0
+44,DC vs GT,DC,Salt (wk),Yes,0,1,0,0,0
+44,DC vs GT,DC,Warner (c),Yes,2,2,0,0,100
+44,DC vs GT,DC,Priyam Garg,Yes,10,14,0,0,71.43
+44,DC vs GT,DC,Rossouw,Yes,8,6,2,0,133.33
+44,DC vs GT,DC,Manish Pandey,Yes,1,4,0,0,25
+44,DC vs GT,DC,Axar,Yes,27,30,2,1,90
+44,DC vs GT,DC,Aman Hakim Khan,Yes,51,44,3,3,115.91
+44,DC vs GT,DC,Ripal Patel,Yes,23,13,2,1,176.92
+44,DC vs GT,DC,Nortje,No,3,6,0,0,50
+44,DC vs GT,DC,Kuldeep Yadav,No,0,1,0,0,0
+44,DC vs GT,GT,Wriddhiman Saha (wk),Yes,0,6,0,0,0
+44,DC vs GT,GT,Shubman Gill,Yes,6,7,1,0,85.71
+44,DC vs GT,GT,Hardik Pandya (c),No,59,53,7,0,111.32
+44,DC vs GT,GT,Vijay Shankar,Yes,6,9,1,0,66.67
+44,DC vs GT,GT,David Miller,Yes,0,3,0,0,0
+44,DC vs GT,GT,Abhinav Manohar,Yes,26,33,0,1,78.79
+44,DC vs GT,GT,Rahul Tewatia,Yes,20,7,0,3,285.71
+44,DC vs GT,GT,Rashid Khan,No,3,2,0,0,150
+45,LSG vs CSK,LSG,Manan Vohra,Yes,10,11,1,0,90.91
+45,LSG vs CSK,LSG,Kyle Mayers,Yes,14,17,2,0,82.35
+45,LSG vs CSK,LSG,Karan Sharma,Yes,9,16,0,0,56.25
+45,LSG vs CSK,LSG,Krunal Pandya (c),Yes,0,1,0,0,0
+45,LSG vs CSK,LSG,Marcus Stoinis,Yes,6,4,1,0,150
+45,LSG vs CSK,LSG,Nicholas Pooran (wk),Yes,20,31,0,0,64.52
+45,LSG vs CSK,LSG,Ayush Badoni,No,59,33,2,4,178.79
+45,LSG vs CSK,LSG,Krishnappa Gowtham,Yes,1,3,0,0,33.33
+46,PK vs MI,PK,Prabhsimran,Yes,9,7,1,0,128.57
+46,PK vs MI,PK,Dhawan (c),Yes,30,20,5,0,150
+46,PK vs MI,PK,Matthew Short,Yes,27,26,2,1,103.85
+46,PK vs MI,PK,Livingstone,No,82,42,7,4,195.24
+46,PK vs MI,PK,Jitesh Sharma (wk),No,49,27,5,2,181.48
+46,PK vs MI,MI,Rohit Sharma (c),Yes,0,3,0,0,0
+46,PK vs MI,MI,Ishan Kishan (wk),Yes,75,41,7,4,182.93
+46,PK vs MI,MI,Cameron Green,Yes,23,18,4,0,127.78
+46,PK vs MI,MI,Suryakumar Yadav,Yes,66,31,8,2,212.9
+46,PK vs MI,MI,Tim David,No,19,10,3,0,190
+46,PK vs MI,MI,Tilak Varma,No,26,10,1,3,260
+47,KKR vs SRH,KKR,Jason Roy,Yes,20,19,4,0,105.26
+47,KKR vs SRH,KKR,Gurbaz (wk),Yes,0,1,0,0,0
+47,KKR vs SRH,KKR,Venkatesh Iyer,Yes,7,4,1,0,175
+47,KKR vs SRH,KKR,Nitish Rana (c),Yes,42,31,3,3,135.48
+47,KKR vs SRH,KKR,Rinku Singh,Yes,46,35,4,1,131.43
+47,KKR vs SRH,KKR,Russell,Yes,24,15,1,2,160
+47,KKR vs SRH,KKR,Narine,Yes,1,2,0,0,50
+47,KKR vs SRH,KKR,Thakur,Yes,8,6,1,0,133.33
+47,KKR vs SRH,KKR,Anukul Roy,No,13,7,2,0,185.71
+47,KKR vs SRH,KKR,Harshit Rana,Yes,0,1,0,0,0
+47,KKR vs SRH,KKR,Vaibhav Arora,No,2,1,0,0,200
+47,KKR vs SRH,SRH,Abhishek Sharma,Yes,9,10,1,0,90
+47,KKR vs SRH,SRH,Mayank Agarwal,Yes,18,11,2,1,163.64
+47,KKR vs SRH,SRH,Rahul Tripathi,Yes,20,9,3,1,222.22
+47,KKR vs SRH,SRH,Aiden Markram (c),Yes,41,40,4,0,102.5
+47,KKR vs SRH,SRH,Harry Brook,Yes,0,4,0,0,0
+47,KKR vs SRH,SRH,Heinrich Klaasen (wk),Yes,36,20,1,3,180
+47,KKR vs SRH,SRH,Abdul Samad,Yes,21,18,3,0,116.67
+47,KKR vs SRH,SRH,Marco Jansen,Yes,1,4,0,0,25
+47,KKR vs SRH,SRH,Bhuvneshwar Kumar,No,5,5,1,0,100
+47,KKR vs SRH,SRH,Mayank Markande,No,1,2,0,0,50
+48,RR vs GT,RR,Yashasvi Jaiswal,Yes,14,11,1,1,127.27
+48,RR vs GT,RR,Jos Buttler,Yes,8,6,2,0,133.33
+48,RR vs GT,RR,Samson (c & wk),Yes,30,20,3,1,150
+48,RR vs GT,RR,Padikkal,Yes,12,12,1,0,100
+48,RR vs GT,RR,Ashwin,Yes,2,6,0,0,33.33
+48,RR vs GT,RR,Riyan Parag,Yes,4,6,0,0,66.67
+48,RR vs GT,RR,Hetmyer,Yes,7,13,0,0,53.85
+48,RR vs GT,RR,Dhruv Jurel,Yes,9,8,1,0,112.5
+48,RR vs GT,RR,Boult,Yes,15,11,1,1,136.36
+48,RR vs GT,RR,Zampa,Yes,7,9,0,0,77.78
+48,RR vs GT,RR,Sandeep Sharma,No,2,5,0,0,40
+48,RR vs GT,GT,Wriddhiman Saha (wk),No,41,34,5,0,120.59
+48,RR vs GT,GT,Shubman Gill,Yes,36,35,6,0,102.86
+48,RR vs GT,GT,Hardik Pandya (c),No,39,15,3,3,260
+49,MI vs CSK,MI,Green,Yes,6,4,1,0,150
+49,MI vs CSK,MI,Ishan Kishan (wk),Yes,7,9,1,0,77.78
+49,MI vs CSK,MI,Rohit (c),Yes,0,3,0,0,0
+49,MI vs CSK,MI,Nehal Wadhera,Yes,64,51,8,1,125.49
+49,MI vs CSK,MI,Suryakumar Yadav,Yes,26,22,3,0,118.18
+49,MI vs CSK,MI,Tristan Stubbs,Yes,20,21,2,0,95.24
+49,MI vs CSK,MI,Tim David,Yes,2,4,0,0,50
+49,MI vs CSK,MI,Arshad Khan,Yes,1,2,0,0,50
+49,MI vs CSK,MI,Jofra Archer,No,3,2,0,0,150
+49,MI vs CSK,MI,Chawla,No,2,2,0,0,100
+49,MI vs CSK,CSK,Ruturaj Gaikwad,Yes,30,16,4,2,187.5
+49,MI vs CSK,CSK,Devon Conway,Yes,44,42,4,0,104.76
+49,MI vs CSK,CSK,Ajinkya Rahane,Yes,21,17,1,1,123.53
+49,MI vs CSK,CSK,Ambati Rayudu,Yes,12,11,0,1,109.09
+49,MI vs CSK,CSK,Shivam Dube,No,26,18,0,3,144.44
+49,MI vs CSK,CSK,MS Dhoni (c & wk),No,2,3,0,0,66.67
+50,RCB vs DC,RCB,Kohli,Yes,55,46,5,0,119.57
+50,RCB vs DC,RCB,du Plessis (c),Yes,45,32,5,1,140.62
+50,RCB vs DC,RCB,Maxwell,Yes,0,1,0,0,0
+50,RCB vs DC,RCB,Lomror,No,54,29,6,3,186.21
+50,RCB vs DC,RCB,Karthik (wk),Yes,11,9,0,1,122.22
+50,RCB vs DC,RCB,Anuj Rawat,No,8,3,0,1,266.67
+50,RCB vs DC,DC,David Warner (c),Yes,22,14,3,1,157.14
+50,RCB vs DC,DC,Philip Salt (wk),Yes,87,45,8,6,193.33
+50,RCB vs DC,DC,Mitchell Marsh,Yes,26,17,3,1,152.94
+50,RCB vs DC,DC,Rilee Rossouw,No,35,22,1,3,159.09
+50,RCB vs DC,DC,Axar Patel,No,8,3,0,1,266.67
+51,GT vs LSG,GT,W Saha (wk),Yes,81,43,10,4,188.37
+51,GT vs LSG,GT,Shubman Gill,No,94,51,2,7,184.31
+51,GT vs LSG,GT,Hardik Pandya (c),Yes,25,15,1,2,166.67
+51,GT vs LSG,GT,Miller,No,21,12,2,1,175
+51,GT vs LSG,LSG,Kyle Mayers,Yes,48,32,7,2,150
+51,GT vs LSG,LSG,Quinton de Kock (wk),Yes,70,41,7,3,170.73
+51,GT vs LSG,LSG,Deepak Hooda,Yes,11,11,0,0,100
+51,GT vs LSG,LSG,Marcus Stoinis,Yes,4,9,0,0,44.44
+51,GT vs LSG,LSG,Nicholas Pooran,Yes,3,6,0,0,50
+51,GT vs LSG,LSG,Ayush Badoni,Yes,21,11,1,2,190.91
+51,GT vs LSG,LSG,Swapnil Singh,No,2,4,0,0,50
+51,GT vs LSG,LSG,Krunal Pandya (c),Yes,0,1,0,0,0
+51,GT vs LSG,LSG,Ravi Bishnoi,No,4,5,1,0,80
+52,RR vs SRH,RR,Yashasvi Jaiswal,Yes,35,18,5,2,194.44
+52,RR vs SRH,RR,Jos Buttler,Yes,95,59,10,4,161.02
+52,RR vs SRH,RR,Samson (c & wk),No,66,38,4,5,173.68
+52,RR vs SRH,RR,Hetmyer,No,7,5,0,0,140
+52,RR vs SRH,SRH,Anmolpreet Singh,Yes,33,25,4,1,132
+52,RR vs SRH,SRH,Abhishek Sharma,Yes,55,34,5,2,161.76
+52,RR vs SRH,SRH,Rahul Tripathi,Yes,47,29,2,3,162.07
+52,RR vs SRH,SRH,Heinrich Klaasen (wk),Yes,26,12,2,2,216.67
+52,RR vs SRH,SRH,Aiden Markram (c),Yes,6,5,1,0,120
+52,RR vs SRH,SRH,Glenn Phillips,Yes,25,7,1,3,357.14
+52,RR vs SRH,SRH,Abdul Samad,No,17,7,0,2,242.86
+52,RR vs SRH,SRH,Marco Jansen,No,3,2,0,0,150
+53,PK vs KKR,PK,Prabhsimran,Yes,12,8,3,0,150
+53,PK vs KKR,PK,Dhawan (c),Yes,57,47,9,1,121.28
+53,PK vs KKR,PK,B Rajapaksa,Yes,0,3,0,0,0
+53,PK vs KKR,PK,Livingstone,Yes,15,9,3,0,166.67
+53,PK vs KKR,PK,Jitesh Sharma (wk),Yes,21,18,0,2,116.67
+53,PK vs KKR,PK,Sam Curran,Yes,4,9,0,0,44.44
+53,PK vs KKR,PK,Rishi Dhawan,Yes,19,11,1,1,172.73
+53,PK vs KKR,PK,Shahrukh Khan,No,21,8,3,1,262.5
+53,PK vs KKR,PK,Harpreet Brar,No,17,9,2,1,188.89
+53,PK vs KKR,KKR,Jason Roy,Yes,38,24,8,0,158.33
+53,PK vs KKR,KKR,Rahmanullah Gurbaz (wk),Yes,15,12,1,1,125
+53,PK vs KKR,KKR,Nitish Rana (c),Yes,51,38,6,1,134.21
+53,PK vs KKR,KKR,Venkatesh Iyer,Yes,11,13,0,0,84.62
+53,PK vs KKR,KKR,Andre Russell,Yes,42,23,3,3,182.61
+53,PK vs KKR,KKR,Rinku Singh,No,21,10,2,1,210
+53,PK vs KKR,KKR,Shardul Thakur,No,0,0,0,0,0
+54,RCB vs MI,RCB,Kohli,Yes,1,4,0,0,25
+54,RCB vs MI,RCB,du Plessis (c),Yes,65,41,5,3,158.54
+54,RCB vs MI,RCB,Anuj Rawat (wk),Yes,6,4,1,0,150
+54,RCB vs MI,RCB,Maxwell,Yes,68,33,8,4,206.06
+54,RCB vs MI,RCB,Lomror,Yes,1,3,0,0,33.33
+54,RCB vs MI,RCB,Karthik,Yes,30,18,4,1,166.67
+54,RCB vs MI,RCB,Kedar Jadhav,No,12,10,1,0,120
+54,RCB vs MI,RCB,W Hasaranga,No,12,8,2,0,150
+54,RCB vs MI,MI,Ishan Kishan (wk),Yes,42,21,4,4,200
+54,RCB vs MI,MI,Rohit Sharma (c),Yes,7,8,1,0,87.5
+54,RCB vs MI,MI,Suryakumar Yadav,Yes,83,35,7,6,237.14
+54,RCB vs MI,MI,Nehal Wadhera,No,52,34,4,3,152.94
+54,RCB vs MI,MI,Tim David,Yes,0,1,0,0,0
+54,RCB vs MI,MI,Cameron Green,No,2,2,0,0,100
+55,CSK vs DC,CSK,Ruturaj Gaikwad,Yes,24,18,4,0,133.33
+55,CSK vs DC,CSK,Conway,Yes,10,13,1,0,76.92
+55,CSK vs DC,CSK,Ajinkya Rahane,Yes,21,20,2,0,105
+55,CSK vs DC,CSK,Moeen,Yes,7,12,0,0,58.33
+55,CSK vs DC,CSK,Shivam Dube,Yes,25,12,0,3,208.33
+55,CSK vs DC,CSK,Rayudu,Yes,23,17,1,1,135.29
+55,CSK vs DC,CSK,Ravindra Jadeja,Yes,21,16,1,1,131.25
+55,CSK vs DC,CSK,Dhoni (c & wk),Yes,20,9,1,2,222.22
+55,CSK vs DC,CSK,D Chahar,No,1,2,0,0,50
+55,CSK vs DC,CSK,Tushar Deshpande,No,0,1,0,0,0
+55,CSK vs DC,DC,David Warner (c),Yes,0,2,0,0,0
+55,CSK vs DC,DC,Philip Salt (wk),Yes,17,11,1,2,154.55
+55,CSK vs DC,DC,Mitchell Marsh,Yes,5,4,1,0,125
+55,CSK vs DC,DC,Manish Pandey,Yes,27,29,1,2,93.1
+55,CSK vs DC,DC,Rilee Rossouw,Yes,35,37,2,1,94.59
+55,CSK vs DC,DC,Ripal Patel,Yes,10,16,0,0,62.5
+55,CSK vs DC,DC,Axar Patel,Yes,21,12,2,1,175
+55,CSK vs DC,DC,Aman Hakim Khan,No,2,3,0,0,66.67
+55,CSK vs DC,DC,Lalit Yadav,Yes,12,5,3,0,240
+55,CSK vs DC,DC,Kuldeep Yadav,No,0,1,0,0,0
+56,KKR vs RR,KKR,Jason Roy,Yes,10,8,2,0,125
+56,KKR vs RR,KKR,Gurbaz (wk),Yes,18,12,1,2,150
+56,KKR vs RR,KKR,Venkatesh Iyer,Yes,57,42,2,4,135.71
+56,KKR vs RR,KKR,Nitish Rana (c),Yes,22,17,2,0,129.41
+56,KKR vs RR,KKR,Russell,Yes,10,10,0,1,100
+56,KKR vs RR,KKR,Rinku Singh,Yes,16,18,0,1,88.89
+56,KKR vs RR,KKR,Thakur,Yes,1,2,0,0,50
+56,KKR vs RR,KKR,Anukul Roy,No,6,6,0,0,100
+56,KKR vs RR,KKR,Narine,Yes,6,5,1,0,120
+56,KKR vs RR,RR,Yashasvi Jaiswal,No,98,47,13,5,208.51
+56,KKR vs RR,RR,Jos Buttler,Yes,0,3,0,0,0
+56,KKR vs RR,RR,Sanju Samson (c & wk),No,48,29,2,5,165.52
+57,MI vs GT,MI,Ishan Kishan (wk),Yes,31,20,4,1,155
+57,MI vs GT,MI,Rohit (c),Yes,29,18,3,2,161.11
+57,MI vs GT,MI,Suryakumar Yadav,No,103,49,11,6,210.2
+57,MI vs GT,MI,Nehal Wadhera,Yes,15,7,1,1,214.29
+57,MI vs GT,MI,Vishnu Vinod,Yes,30,20,2,2,150
+57,MI vs GT,MI,Tim David,Yes,5,3,1,0,166.67
+57,MI vs GT,MI,Green,No,3,3,0,0,100
+57,MI vs GT,GT,Wriddhiman Saha (wk),Yes,2,5,0,0,40
+57,MI vs GT,GT,Shubman Gill,Yes,6,9,0,0,66.67
+57,MI vs GT,GT,Hardik Pandya (c),Yes,4,3,1,0,133.33
+57,MI vs GT,GT,Vijay Shankar,Yes,29,14,6,0,207.14
+57,MI vs GT,GT,David Miller,Yes,41,26,4,2,157.69
+57,MI vs GT,GT,Abhinav Manohar,Yes,2,3,0,0,66.67
+57,MI vs GT,GT,Rahul Tewatia,Yes,14,13,1,0,107.69
+57,MI vs GT,GT,Rashid Khan,No,79,32,3,10,246.88
+57,MI vs GT,GT,Noor Ahmad,Yes,1,3,0,0,33.33
+57,MI vs GT,GT,Alzarri Joseph,No,7,12,1,0,58.33
+58,SRH vs LSG,SRH,Anmolpreet Singh,Yes,36,27,7,0,133.33
+58,SRH vs LSG,SRH,Abhishek Sharma,Yes,7,5,1,0,140
+58,SRH vs LSG,SRH,Tripathi,Yes,20,13,4,0,153.85
+58,SRH vs LSG,SRH,Markram (c),Yes,28,20,2,1,140
+58,SRH vs LSG,SRH,Klaasen (wk),Yes,47,29,3,3,162.07
+58,SRH vs LSG,SRH,Glenn Phillips,Yes,0,1,0,0,0
+58,SRH vs LSG,SRH,Abdul Samad,No,37,25,1,4,148
+58,SRH vs LSG,SRH,Bhuvneshwar,No,2,1,0,0,200
+58,SRH vs LSG,LSG,Kyle Mayers,Yes,2,14,0,0,14.29
+58,SRH vs LSG,LSG,Quinton de Kock (wk),Yes,29,19,3,1,152.63
+58,SRH vs LSG,LSG,Prerak Mankad,No,64,45,7,2,142.22
+58,SRH vs LSG,LSG,Marcus Stoinis,Yes,40,25,2,3,160
+58,SRH vs LSG,LSG,Nicholas Pooran,No,44,13,3,4,338.46
+59,PK vs DC,PK,Prabhsimran,Yes,103,65,10,6,158.46
+59,PK vs DC,PK,Dhawan (c),Yes,7,5,0,1,140
+59,PK vs DC,PK,Livingstone,Yes,4,5,1,0,80
+59,PK vs DC,PK,Jitesh Sharma (wk),Yes,5,5,1,0,100
+59,PK vs DC,PK,Sam Curran,Yes,20,24,1,0,83.33
+59,PK vs DC,PK,Harpreet Brar,Yes,2,5,0,0,40
+59,PK vs DC,PK,Shahrukh Khan,Yes,2,4,0,0,50
+59,PK vs DC,PK,Raza,No,11,7,0,1,157.14
+59,PK vs DC,PK,Rishi Dhawan,No,0,0,0,0,0
+59,PK vs DC,DC,David Warner (c),Yes,54,27,10,1,200
+59,PK vs DC,DC,Philip Salt (wk),Yes,21,17,3,0,123.53
+59,PK vs DC,DC,Mitchell Marsh,Yes,3,4,0,0,75
+59,PK vs DC,DC,Rilee Rossouw,Yes,5,5,1,0,100
+59,PK vs DC,DC,Axar Patel,Yes,1,2,0,0,50
+59,PK vs DC,DC,Manish Pandey,Yes,0,3,0,0,0
+59,PK vs DC,DC,Aman Hakim Khan,Yes,16,18,1,1,88.89
+59,PK vs DC,DC,Praveen Dubey,Yes,16,20,2,0,80
+59,PK vs DC,DC,Kuldeep Yadav,No,10,17,0,0,58.82
+59,PK vs DC,DC,Mukesh Kumar,No,6,7,0,0,85.71
+60,RCB vs RR,RCB,Kohli,Yes,18,19,1,0,94.74
+60,RCB vs RR,RCB,du Plessis (c),Yes,55,44,3,2,125
+60,RCB vs RR,RCB,Maxwell,Yes,54,33,5,3,163.64
+60,RCB vs RR,RCB,Lomror,Yes,1,2,0,0,50
+60,RCB vs RR,RCB,Karthik (wk),Yes,0,2,0,0,0
+60,RCB vs RR,RCB,M Bracewell,No,9,9,0,0,100
+60,RCB vs RR,RCB,Anuj Rawat,No,29,11,3,2,263.64
+60,RCB vs RR,RR,Yashasvi Jaiswal,Yes,0,2,0,0,0
+60,RCB vs RR,RR,Jos Buttler,Yes,0,2,0,0,0
+60,RCB vs RR,RR,Sanju Samson (c & wk),Yes,4,5,1,0,80
+60,RCB vs RR,RR,Joe Root,Yes,10,15,1,0,66.67
+60,RCB vs RR,RR,Devdutt Padikkal,Yes,4,4,1,0,100
+60,RCB vs RR,RR,Shimron Hetmyer,Yes,35,19,1,4,184.21
+60,RCB vs RR,RR,Dhruv Jurel,Yes,1,7,0,0,14.29
+60,RCB vs RR,RR,Ravichandran Ashwin,Yes,0,0,0,0,0
+60,RCB vs RR,RR,Adam Zampa,Yes,2,6,0,0,33.33
+60,RCB vs RR,RR,Sandeep Sharma,No,0,1,0,0,0
+60,RCB vs RR,RR,KM Asif,Yes,0,2,0,0,0
+61,CSK vs KKR,CSK,Ruturaj Gaikwad,Yes,17,13,2,0,130.77
+61,CSK vs KKR,CSK,Conway,Yes,30,28,3,0,107.14
+61,CSK vs KKR,CSK,Ajinkya Rahane,Yes,16,11,1,1,145.45
+61,CSK vs KKR,CSK,Rayudu,Yes,4,7,0,0,57.14
+61,CSK vs KKR,CSK,Shivam Dube,No,48,34,1,3,141.18
+61,CSK vs KKR,CSK,Moeen,Yes,1,2,0,0,50
+61,CSK vs KKR,CSK,Ravindra Jadeja,Yes,20,24,0,1,83.33
+61,CSK vs KKR,CSK,Dhoni (c & wk),No,2,3,0,0,66.67
+61,CSK vs KKR,KKR,Jason Roy,Yes,12,15,1,0,80
+61,CSK vs KKR,KKR,Rahmanullah Gurbaz (wk),Yes,1,4,0,0,25
+61,CSK vs KKR,KKR,Venkatesh Iyer,Yes,9,4,2,0,225
+61,CSK vs KKR,KKR,Nitish Rana (c),No,57,44,6,1,129.55
+61,CSK vs KKR,KKR,Rinku Singh,Yes,54,43,4,3,125.58
+61,CSK vs KKR,KKR,Andre Russell,No,2,2,0,0,100
+62,GT vs SRH,GT,W Saha (wk),Yes,0,3,0,0,0
+62,GT vs SRH,GT,Shubman Gill,Yes,101,58,13,1,174.14
+62,GT vs SRH,GT,Sai Sudharsan,Yes,47,36,6,1,130.56
+62,GT vs SRH,GT,Hardik Pandya (c),Yes,8,6,1,0,133.33
+62,GT vs SRH,GT,Miller,Yes,7,5,1,0,140
+62,GT vs SRH,GT,Rahul Tewatia,Yes,3,3,0,0,100
+62,GT vs SRH,GT,Shanaka,No,9,7,1,0,128.57
+62,GT vs SRH,GT,Rashid Khan,Yes,0,1,0,0,0
+62,GT vs SRH,GT,Noor Ahmad,Yes,0,1,0,0,0
+62,GT vs SRH,GT,Shami,Yes,0,1,0,0,0
+62,GT vs SRH,GT,Mohit Sharma,No,0,1,0,0,0
+62,GT vs SRH,SRH,Anmolpreet Singh,Yes,5,4,1,0,125
+62,GT vs SRH,SRH,Abhishek Sharma,Yes,4,5,1,0,80
+62,GT vs SRH,SRH,Aiden Markram (c),Yes,10,10,1,0,100
+62,GT vs SRH,SRH,Rahul Tripathi,Yes,1,2,0,0,50
+62,GT vs SRH,SRH,Heinrich Klaasen (wk),Yes,64,44,4,3,145.45
+62,GT vs SRH,SRH,Sanvir Singh,Yes,7,6,0,1,116.67
+62,GT vs SRH,SRH,Abdul Samad,Yes,4,3,1,0,133.33
+62,GT vs SRH,SRH,Marco Jansen,Yes,3,6,0,0,50
+62,GT vs SRH,SRH,Bhuvneshwar Kumar,Yes,27,26,3,0,103.85
+62,GT vs SRH,SRH,Mayank Markande,No,18,9,2,1,200
+62,GT vs SRH,SRH,Fazalhaq Farooqi,No,1,5,0,0,20
+63,LSG vs MI,LSG,Deepak Hooda,Yes,5,7,0,0,71.43
+63,LSG vs MI,LSG,de Kock (wk),Yes,16,15,0,2,106.67
+63,LSG vs MI,LSG,Prerak Mankad,Yes,0,1,0,0,0
+63,LSG vs MI,LSG,Krunal Pandya (c),Yes,49,42,1,1,116.67
+63,LSG vs MI,LSG,Stoinis,No,89,47,4,8,189.36
+63,LSG vs MI,LSG,Pooran,No,8,8,1,0,100
+63,LSG vs MI,MI,Ishan Kishan (wk),Yes,59,39,8,1,151.28
+63,LSG vs MI,MI,Rohit Sharma (c),Yes,37,25,1,3,148
+63,LSG vs MI,MI,Suryakumar Yadav,Yes,7,9,0,0,77.78
+63,LSG vs MI,MI,Nehal Wadhera,Yes,16,20,2,0,80
+63,LSG vs MI,MI,Tim David,No,32,19,1,3,168.42
+63,LSG vs MI,MI,Vishnu Vinod,Yes,2,4,0,0,50
+63,LSG vs MI,MI,Cameron Green,No,4,6,0,0,66.67
+64,DC vs PK,DC,Warner (c),Yes,46,31,5,2,148.39
+64,DC vs PK,DC,Prithvi Shaw,Yes,54,38,7,1,142.11
+64,DC vs PK,DC,Rossouw,No,82,37,6,6,221.62
+64,DC vs PK,DC,Salt (wk),No,26,14,2,2,185.71
+64,DC vs PK,PK,Prabhsimran Singh,Yes,22,19,4,0,115.79
+64,DC vs PK,PK,Shikhar Dhawan (c),Yes,0,1,0,0,0
+64,DC vs PK,PK,Atharva Taide,Yes,55,42,5,2,130.95
+64,DC vs PK,PK,Liam Livingstone,Yes,94,48,5,9,195.83
+64,DC vs PK,PK,Jitesh Sharma (wk),Yes,0,3,0,0,0
+64,DC vs PK,PK,Shahrukh Khan,Yes,6,3,0,1,200
+64,DC vs PK,PK,Sam Curran,Yes,11,5,1,1,220
+64,DC vs PK,PK,Harpreet Brar,Yes,0,1,0,0,0
+64,DC vs PK,PK,Rahul Chahar,No,0,0,0,0,0
+65,SRH vs RCB,SRH,Abhishek Sharma,Yes,11,14,2,0,78.57
+65,SRH vs RCB,SRH,Tripathi,Yes,15,12,2,1,125
+65,SRH vs RCB,SRH,Markram (c),Yes,18,20,0,0,90
+65,SRH vs RCB,SRH,Klaasen (wk),Yes,104,51,8,6,203.92
+65,SRH vs RCB,SRH,Harry Brook,No,27,19,2,1,142.11
+65,SRH vs RCB,SRH,Glenn Phillips,Yes,5,4,1,0,125
+65,SRH vs RCB,RCB,Virat Kohli,Yes,100,63,12,4,158.73
+65,SRH vs RCB,RCB,Faf du Plessis (c),Yes,71,47,7,2,151.06
+65,SRH vs RCB,RCB,Glenn Maxwell,No,5,3,1,0,166.67
+65,SRH vs RCB,RCB,Michael Bracewell,No,4,4,0,0,100
+66,PK vs RR,PK,Prabhsimran,Yes,2,2,0,0,100
+66,PK vs RR,PK,Dhawan (c),Yes,17,12,2,1,141.67
+66,PK vs RR,PK,Atharva Taide,Yes,19,12,3,1,158.33
+66,PK vs RR,PK,Livingstone,Yes,9,13,1,0,69.23
+66,PK vs RR,PK,Sam Curran,No,49,31,4,2,158.06
+66,PK vs RR,PK,Jitesh Sharma (wk),Yes,44,28,3,3,157.14
+66,PK vs RR,PK,Shahrukh Khan,No,41,23,4,2,178.26
+66,PK vs RR,RR,Yashasvi Jaiswal,Yes,50,36,8,0,138.89
+66,PK vs RR,RR,Jos Buttler,Yes,0,4,0,0,0
+66,PK vs RR,RR,Devdutt Padikkal,Yes,51,30,5,3,170
+66,PK vs RR,RR,Sanju Samson (c & wk),Yes,2,3,0,0,66.67
+66,PK vs RR,RR,Shimron Hetmyer,Yes,46,28,4,3,164.29
+66,PK vs RR,RR,Riyan Parag,Yes,20,12,1,2,166.67
+66,PK vs RR,RR,Dhruv Jurel,No,10,4,0,1,250
+66,PK vs RR,RR,Trent Boult,No,1,2,0,0,50
+67,CSK vs DC,CSK,Ruturaj Gaikwad,Yes,79,50,3,7,158
+67,CSK vs DC,CSK,Conway,Yes,87,52,11,3,167.31
+67,CSK vs DC,CSK,Shivam Dube,Yes,22,9,0,3,244.44
+67,CSK vs DC,CSK,Dhoni (c & wk),No,5,4,0,0,125
+67,CSK vs DC,CSK,Ravindra Jadeja,No,20,7,3,1,285.71
+67,CSK vs DC,DC,Prithvi Shaw,Yes,5,7,1,0,71.43
+67,CSK vs DC,DC,David Warner (c),Yes,86,58,7,5,148.28
+67,CSK vs DC,DC,Philip Salt (wk),Yes,3,6,0,0,50
+67,CSK vs DC,DC,Rilee Rossouw,Yes,0,1,0,0,0
+67,CSK vs DC,DC,Yash Dhull,Yes,13,15,1,0,86.67
+67,CSK vs DC,DC,Axar Patel,Yes,15,8,1,1,187.5
+67,CSK vs DC,DC,Aman Hakim Khan,Yes,7,9,1,0,77.78
+67,CSK vs DC,DC,Lalit Yadav,Yes,6,12,0,0,50
+67,CSK vs DC,DC,Anrich Nortje,No,0,1,0,0,0
+67,CSK vs DC,DC,Kuldeep Yadav,Yes,0,1,0,0,0
+67,CSK vs DC,DC,Chetan Sakariya,No,0,2,0,0,0
+68,LSG vs KKR,LSG,Karan Sharma,Yes,3,5,0,0,60
+68,LSG vs KKR,LSG,de Kock (wk),Yes,28,27,0,2,103.7
+68,LSG vs KKR,LSG,Prerak Mankad,Yes,26,20,5,0,130
+68,LSG vs KKR,LSG,Stoinis,Yes,0,2,0,0,0
+68,LSG vs KKR,LSG,Krunal Pandya (c),Yes,9,8,0,1,112.5
+68,LSG vs KKR,LSG,Ayush Badoni,Yes,25,21,2,1,119.05
+68,LSG vs KKR,LSG,Pooran,Yes,58,30,4,5,193.33
+68,LSG vs KKR,LSG,K Gowtham,No,11,4,1,1,275
+68,LSG vs KKR,LSG,Ravi Bishnoi,Yes,2,2,0,0,100
+68,LSG vs KKR,LSG,Naveen-ul-Haq,No,2,3,0,0,66.67
+68,LSG vs KKR,KKR,Jason Roy,Yes,45,28,7,1,160.71
+68,LSG vs KKR,KKR,Venkatesh Iyer,Yes,24,15,3,1,160
+68,LSG vs KKR,KKR,Nitish Rana (c),Yes,8,10,1,0,80
+68,LSG vs KKR,KKR,Rahmanullah Gurbaz (wk),Yes,10,15,0,0,66.67
+68,LSG vs KKR,KKR,Rinku Singh,No,67,33,6,4,203.03
+68,LSG vs KKR,KKR,Andre Russell,Yes,7,9,0,1,77.78
+68,LSG vs KKR,KKR,Shardul Thakur,Yes,3,7,0,0,42.86
+68,LSG vs KKR,KKR,Sunil Narine,Yes,1,2,0,0,50
+68,LSG vs KKR,KKR,Vaibhav Arora,No,1,1,0,0,100
+69,SRH vs MI,SRH,Vivrant Sharma,Yes,69,47,9,2,146.81
+69,SRH vs MI,SRH,Mayank Agarwal,Yes,83,46,8,4,180.43
+69,SRH vs MI,SRH,Klaasen (wk),Yes,18,13,2,0,138.46
+69,SRH vs MI,SRH,Glenn Phillips,Yes,1,4,0,0,25
+69,SRH vs MI,SRH,Markram (c),No,13,7,0,1,185.71
+69,SRH vs MI,SRH,Harry Brook,Yes,0,1,0,0,0
+69,SRH vs MI,SRH,Sanvir Singh,No,4,3,1,0,133.33
+69,SRH vs MI,MI,Ishan Kishan (wk),Yes,14,12,1,1,116.67
+69,SRH vs MI,MI,Rohit Sharma (c),Yes,56,37,8,1,151.35
+69,SRH vs MI,MI,Cameron Green,No,100,47,8,8,212.77
+69,SRH vs MI,MI,Suryakumar Yadav,No,25,16,4,0,156.25
+70,RCB vs GT,RCB,Kohli,No,101,61,13,1,165.57
+70,RCB vs GT,RCB,du Plessis (c),Yes,28,19,5,0,147.37
+70,RCB vs GT,RCB,Maxwell,Yes,11,5,1,1,220
+70,RCB vs GT,RCB,Lomror,Yes,1,3,0,0,33.33
+70,RCB vs GT,RCB,M Bracewell,Yes,26,16,5,0,162.5
+70,RCB vs GT,RCB,Karthik,Yes,0,1,0,0,0
+70,RCB vs GT,RCB,Anuj Rawat (wk),No,23,15,1,1,153.33
+70,RCB vs GT,GT,Wriddhiman Saha (wk),Yes,12,14,2,0,85.71
+70,RCB vs GT,GT,Shubman Gill,No,104,52,5,8,200
+70,RCB vs GT,GT,Vijay Shankar,Yes,53,35,7,2,151.43
+70,RCB vs GT,GT,Dasun Shanaka,Yes,0,3,0,0,0
+70,RCB vs GT,GT,David Miller,Yes,6,7,1,0,85.71
+70,RCB vs GT,GT,Rahul Tewatia,No,4,5,0,0,80
+Qualifier 1,CSK vs GT,CSK,Ruturaj Gaikwad,Yes,60,44,7,1,136.36
+Qualifier 1,CSK vs GT,CSK,Conway,Yes,40,34,4,0,117.65
+Qualifier 1,CSK vs GT,CSK,Shivam Dube,Yes,1,3,0,0,33.33
+Qualifier 1,CSK vs GT,CSK,Ajinkya Rahane,Yes,17,10,0,1,170
+Qualifier 1,CSK vs GT,CSK,Rayudu,Yes,17,9,1,1,188.89
+Qualifier 1,CSK vs GT,CSK,Ravindra Jadeja,Yes,22,16,2,0,137.5
+Qualifier 1,CSK vs GT,CSK,Dhoni (c & wk),Yes,1,2,0,0,50
+Qualifier 1,CSK vs GT,CSK,Moeen,No,9,4,0,1,225
+Qualifier 1,CSK vs GT,GT,Wriddhiman Saha (wk),Yes,12,11,2,0,109.09
+Qualifier 1,CSK vs GT,GT,Shubman Gill,Yes,42,38,4,1,110.53
+Qualifier 1,CSK vs GT,GT,Hardik Pandya (c),Yes,8,7,1,0,114.29
+Qualifier 1,CSK vs GT,GT,Dasun Shanaka,Yes,17,16,1,1,106.25
+Qualifier 1,CSK vs GT,GT,David Miller,Yes,4,6,0,0,66.67
+Qualifier 1,CSK vs GT,GT,Vijay Shankar,Yes,14,10,0,1,140
+Qualifier 1,CSK vs GT,GT,Rahul Tewatia,Yes,3,5,0,0,60
+Qualifier 1,CSK vs GT,GT,Rashid Khan,Yes,30,16,3,2,187.5
+Qualifier 1,CSK vs GT,GT,Darshan Nalkande,Yes,0,1,0,0,0
+Qualifier 1,CSK vs GT,GT,Noor Ahmad,No,7,5,1,0,140
+Qualifier 1,CSK vs GT,GT,Mohammed Shami,Yes,5,5,1,0,100
+Eliminator,MI vs LSG,MI,Ishan Kishan (wk),Yes,15,12,3,0,125
+Eliminator,MI vs LSG,MI,Rohit (c),Yes,11,10,1,1,110
+Eliminator,MI vs LSG,MI,Green,Yes,41,23,6,1,178.26
+Eliminator,MI vs LSG,MI,Suryakumar Yadav,Yes,33,20,2,2,165
+Eliminator,MI vs LSG,MI,Tilak Varma,Yes,26,22,0,2,118.18
+Eliminator,MI vs LSG,MI,Tim David,Yes,13,13,1,0,100
+Eliminator,MI vs LSG,MI,Nehal Wadhera,Yes,23,12,2,2,191.67
+Eliminator,MI vs LSG,MI,Chris Jordan,Yes,4,7,0,0,57.14
+Eliminator,MI vs LSG,MI,Hrithik Shokeen,No,0,1,0,0,0
+Eliminator,MI vs LSG,LSG,Kyle Mayers,Yes,18,13,3,0,138.46
+Eliminator,MI vs LSG,LSG,Prerak Mankad,Yes,3,6,0,0,50
+Eliminator,MI vs LSG,LSG,Krunal Pandya (c),Yes,8,11,1,0,72.73
+Eliminator,MI vs LSG,LSG,Marcus Stoinis,Yes,40,27,5,1,148.15
+Eliminator,MI vs LSG,LSG,Ayush Badoni,Yes,1,7,0,0,14.29
+Eliminator,MI vs LSG,LSG,Nicholas Pooran (wk),Yes,0,1,0,0,0
+Eliminator,MI vs LSG,LSG,Deepak Hooda,Yes,15,13,0,1,115.38
+Eliminator,MI vs LSG,LSG,Krishnappa Gowtham,Yes,2,3,0,0,66.67
+Eliminator,MI vs LSG,LSG,Ravi Bishnoi,Yes,3,6,0,0,50
+Eliminator,MI vs LSG,LSG,Naveen-ul-Haq,No,1,5,0,0,20
+Eliminator,MI vs LSG,LSG,Mohsin Khan,Yes,0,7,0,0,0
+Qualifier 2,GT vs MI,GT,W Saha (wk),Yes,18,16,3,0,112.5
+Qualifier 2,GT vs MI,GT,Shubman Gill,Yes,129,60,7,10,215
+Qualifier 2,GT vs MI,GT,Sai Sudharsan,Yes,43,31,5,1,138.71
+Qualifier 2,GT vs MI,GT,Hardik Pandya (c),No,28,13,2,2,215.38
+Qualifier 2,GT vs MI,GT,Rashid Khan,No,5,2,1,0,250
+Qualifier 2,GT vs MI,MI,Rohit Sharma (c),Yes,8,7,1,0,114.29
+Qualifier 2,GT vs MI,MI,Nehal Wadhera,Yes,4,3,1,0,133.33
+Qualifier 2,GT vs MI,MI,Cameron Green,Yes,30,20,2,2,150
+Qualifier 2,GT vs MI,MI,Suryakumar Yadav,Yes,61,38,7,2,160.53
+Qualifier 2,GT vs MI,MI,Tilak Varma,Yes,43,14,5,3,307.14
+Qualifier 2,GT vs MI,MI,Vishnu Vinod,Yes,5,7,0,0,71.43
+Qualifier 2,GT vs MI,MI,Tim David,Yes,2,3,0,0,66.67
+Qualifier 2,GT vs MI,MI,Chris Jordan,Yes,2,5,0,0,40
+Qualifier 2,GT vs MI,MI,Piyush Chawla,Yes,0,2,0,0,0
+Qualifier 2,GT vs MI,MI,Kumar Kartikeya,Yes,6,7,1,0,85.71
+Qualifier 2,GT vs MI,MI,Jason Behrendorff,No,3,5,0,0,60
+Final,CSK vs GT,GT,W Saha (wk),Yes,54,39,5,1,138.46
+Final,CSK vs GT,GT,Shubman Gill,Yes,39,20,7,0,195
+Final,CSK vs GT,GT,Sai Sudharsan,Yes,96,47,8,6,204.26
+Final,CSK vs GT,GT,Hardik Pandya (c),No,21,12,0,2,175
+Final,CSK vs GT,GT,Rashid Khan,Yes,0,2,0,0,0
+Final,CSK vs GT,CSK,Ruturaj Gaikwad,Yes,26,16,3,1,162.5
+Final,CSK vs GT,CSK,Devon Conway,Yes,47,25,4,2,188
+Final,CSK vs GT,CSK,Shivam Dube,No,32,21,0,2,152.38
+Final,CSK vs GT,CSK,Ajinkya Rahane,Yes,27,13,2,2,207.69
+Final,CSK vs GT,CSK,Ambati Rayudu,Yes,19,8,1,2,237.5
+Final,CSK vs GT,CSK,MS Dhoni (c & wk),Yes,0,1,0,0,0
+Final,CSK vs GT,CSK,Ravindra Jadeja,No,15,6,1,1,250
